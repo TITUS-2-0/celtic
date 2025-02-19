@@ -2,8 +2,17 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Pedeir keinc y Mabinogi</title>
-				<author>Unknown</author>
+				<title>The Mabinogion</title>
+				<respStmt>
+					<resp>digitization</resp>
+					<name>Elena Parina</name>
+					<note>2003-2005</note>
+				</respStmt>
+				<respStmt>
+					<resp>TITUS version</resp>
+					<name>Jost Gippert</name>
+					<note>Frankfurt a/M, 6.12.2005</note>
+				</respStmt>
 			</titleStmt>
 			<editionStmt>
 				<edition n="1" />
@@ -14,7 +23,12 @@
 				<date>2024</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Missing metadata</p>
+				<bibl xml:id="pkm">
+					<author>
+						<name>authors, Various</name>
+					</author>. n.d.. <title level="m">Pedeir Keinc Y Mabinogi</title>. Edited by <editor>
+						<name>Ifor Williams</name>
+					</editor>. 2nd ed. <publisher>Gwasg Prifysgol Cymru</publisher>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
