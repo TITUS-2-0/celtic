@@ -1,7 +1,7 @@
 - body:
   - chapter[n=PPD]:
-    - pb[type=edition]: 1
-    - pb[type=manuscript]: 1
+    - pb[type=edition,n=1]
+    - pb[type=manuscript,n=1]
     - head: Pwyll Pendeuic Dyuet
     - p:
       - lb[type=edition,n=1]: PWYLL, Pendeuic Dyuet, a oed yn arglwyd ar seith
@@ -31,12 +31,12 @@
       - lb[type=edition,n=21]: helgwn y byt, ny welsei cwn un lliw ac wynt. Sef lliw
       - lb[type=edition,n=22]:
         - oed arnunt, claerwyn
-        - pb[type=manuscript]: 2
+        - pb[type=manuscript,n=2]
         - llathreit, ac eu clusteu yn
       - lb[type=edition,n=23]: gochyon. Ac ual y llathrei wynnet y cwn, y llathrei
       - lb[type=edition,n=24]:
         - cochet y clusteu. Ac ar hynny at y cwn y doeth ef, a
-        - pb[type=edition]: 2
+        - pb[type=edition,n=2]
       - lb[type=edition,n=1]: gyrru yr erchwys a ladyssei y carw e ymdeith, a llithyaw
       - lb[type=edition,n=2]: y erchwys e hunan ar y carw.
       - lb[type=edition,n=3]: Ac ual y byd yn llithiau y cwn, ef a welei uarchauc
@@ -59,7 +59,7 @@
       - lb[type=edition,n=18]: y rof i a Duw," hep ef, "mi a wnaf o anglot itt guerth
       - lb[type=edition,n=19]: can carw."
       - lb[type=edition,n=20]:
-        - pb[type=manuscript]: 3
+        - pb[type=manuscript,n=3]
         - '"A unbenn," hep ef, "o gwneuthum gam, mi a'
       - lb[type=edition,n=21]: brynaf dy gerennyd." "Pa delw," hep ynteu, "y
       - lb[type=edition,n=22]: pryny di?" "Vrth ual y bo dy anryded, ac ny wnn i
@@ -76,7 +76,7 @@
           - yr wed,
           - foreign[lg=deu-Latn]: R.
         - y kyffy," heb ynteu. "Gwr yssyd
-        - pb[type=edition]: 3
+        - pb[type=edition,n=3]
       - lb[type=edition,n=1]: gyferbyn y gyuoeth a'm kyuoeth inheu yn ryuelu arnaf
       - lb[type=edition,n=2]: yn wastat. Sef yw hwnnw, Hafgan urenhin o Annwuyn.
       - lb[type=edition,n=3]: Ac yr guaret gormes hwnnw y arnaf, a hynny a elly yn
@@ -88,7 +88,7 @@
           ac a
       - lb[type=edition,n=9]:
         - rodaf y wreic deccaf
-        - pb[type=manuscript]: 4
+        - pb[type=manuscript,n=4]
         - a weleist eiroet y gyscu gyt a thi
       - lb[type=edition,n=10]: beunoeth, a'm pryt innheu a'm ansawd arnat ti, hyt
           na
@@ -115,9 +115,9 @@
       - lb[type=edition,n=27]: "dim ragot, yny delych y'm kyuoeth i: a mi a uydaf"
       - lb[type=edition,n=28]:
         - hebryngyat arnat."
-        - pb[type=edition]: 4
+        - pb[type=edition,n=4]
       - lb[type=edition,n=1]:
-        - pb[type=manuscript]: 5
+        - pb[type=manuscript,n=5]
         - Ef a'y hebryghaud yny welas y llys a'r kyuanned.
       - lb[type=edition,n=2]: "\"Llyna,\" hep ef, \"y llys a'r kyuoeth i'th uedyant.\
           \ A"
@@ -139,8 +139,8 @@
       - lb[type=edition,n=17]: y bordeu a orugant, ac eisted a wnaethant ual hynn
           -- y
       - lb[type=edition,n=18]:
-        - urenhines o'r neill parth idaw ef, a'r iarll, deby
-        - pb[type=manuscript,break=no]: gei6
+        - urenhines o'r neill parth idaw ef, a'r iarll, deby\gei
+        - pb[type=manuscript,n=6]
         - ef,
       - lb[type=edition,n=19]: o'r parth arall. A dechreu ymdidan a wnaeth ef a'r
       - lb[type=edition,n=20]: urenhines. Ac o'r a welsei eiryoet wrth ymdidan a hi,
@@ -154,7 +154,7 @@
       - lb[type=edition,n=27]: yd aethant, ef a'r urenhines. Y gyt ac yd aethant yn
       - lb[type=edition,n=28]:
         - guely ymchwelut e weneb at yr erchwyn a oruc ef, a'y
-        - pb[type=edition]: 5
+        - pb[type=edition,n=5]
       - lb[type=edition,n=1]: geuyn attei hitheu. O hynny hyt trannoeth, ny dywot
       - lb[type=edition,n=2]: ef wrthi hi un geir. Trannoeth, tirionwch ac ymdidan
       - lb[type=edition,n=3]: hygar a uu y ryngthunt. Peth bynnac o garueidrwyd a
@@ -164,7 +164,7 @@
       - lb[type=edition,n=7]: a chyuedach, a charueidrwyd, ac ymdidan a chedymdeithon,
       - lb[type=edition,n=8]: hyt y nos yd oet y gyfranc. Yn oet y nos
       - lb[type=edition,n=9]:
-        - pb[type=manuscript]: 7
+        - pb[type=manuscript,n=7]
         - honno, kystal y doi y gof y'r dyn eithaf yn yr holl
       - lb[type=edition,n=10]: gyuoeth yr oet [ac idaw ynteu]. Ac ynteu a doeth i'r
       - lb[type=edition,n=11]: oet, a guyrda y gyuoeth y gyt ac ef. Ac y gyt ac y
@@ -185,12 +185,12 @@
       - lb[type=edition,n=25]: yndaw ynteu. "A unben," heb yr Hafgan, "pa dylyet
       - lb[type=edition,n=26]:
         - a oed iti ar uy angheu
-        - pb[type=manuscript]: 8
+        - pb[type=manuscript,n=8]
         - i? Nit yttoydwn i yn holi dim
       - lb[type=edition,n=27]: "i ti. Ni wydwn achos it heuyt y'm llad i: ac yr Duw,\""
       - lb[type=edition,n=28]:
         - heb ef, "canys dechreueist uy llad, gorffen." "A
-        - pb[type=edition]: 6
+        - pb[type=edition,n=6]
       - lb[type=edition,n=1]: unbenn," heb ynteu, "ef a eill uot yn ediuar gennyf
       - lb[type=edition,n=2]: gwneuthur a wneuthum itt. Keis a'th lado; ni ladaf i
       - lb[type=edition,n=3]: di." "Vy ngwyrda kywir," heb yr Hafgan, "dygwch ui
@@ -209,7 +209,7 @@
       - lb[type=edition,n=15]: Ac ar hynny, ef a gerdwys parth a'y gynnadyl, ac a
       - lb[type=edition,n=16]:
         - doeth y Lynn Cuch. A phan doeth yno, yd oed
-        - pb[type=manuscript]: 9
+        - pb[type=manuscript,n=9]
       - lb[type=edition,n=17]: Arawn urenhin Annwuyn yn y erbyn. Llawen uu pob
       - lb[type=edition,n=18]: un wrth y gilid o honunt. "Ie," heb yr Arawn, "Duw
       - lb[type=edition,n=19]: a dalo itt dy gydymdeithas; mi a'y kygleu." "Ie,"
@@ -224,7 +224,7 @@
       - lb[type=edition,n=27]: ac a'y deulu, canis rywelsei ef [wy ys blwydyn].
       - lb[type=edition,n=28]:
         - Wynteu hagen ni wybuyssynt i eisseu ef, ac ni bu
-        - pb[type=edition]: 7
+        - pb[type=edition,n=7]
       - lb[type=edition,n=1]: newydach ganthunt y dyuodyat no chynt. Y dyd
       - lb[type=edition,n=2]: hwnnw a dreulwys trwy digrifwch a llywenyd, ac eisted
       - lb[type=edition,n=3]: ac ymdidan a'y wreic ac a'y wyrda. A phan uu amserach
@@ -233,7 +233,7 @@
       - lb[type=edition,n=6]: ef ymdidan a'y [wreic], ac ymyrru ar digriwwch serchawl
       - lb[type=edition,n=7]:
         - a charyat arnei. A hynny
-        - pb[type=manuscript]: 10
+        - pb[type=manuscript,n=10]
         - ny ordifnassei hi
       - lb[type=edition,n=8]: ys blwydyn, a hynny a uedylywys hi. "Oy a Duw," heb
       - lb[type=edition,n=9]: hi, "pa amgen uedwl yssyd yndaw ef heno noc ar a uu
@@ -260,7 +260,7 @@
       - lb[type=edition,n=24]: wrth y wreic, "Arglwydes," heb ef, "na chapla di uiui.
       - lb[type=edition,n=25]:
         - Y rof i a Duw," heb
-        - pb[type=manuscript]: 11
+        - pb[type=manuscript,n=11]
         - ynteu, "ni chyskeis inheu gyt
       - lb[type=edition,n=26]: a thi, yr blwydyn y neithwyr, ac ni orwedeis." Ac yna
       - lb[type=edition,n=27]: menegi y holl gyfranc a wnaeth idi. "I Duw y dygaf
@@ -268,7 +268,7 @@
           ar
       - lb[type=edition,n=29]:
         - gedymdeith yn herwyd ymlad a frouedigaeth y gorff, a
-        - pb[type=edition]: 8
+        - pb[type=edition,n=8]
       - lb[type=edition,n=1]: chadw kywirdeb wrthyt titheu." "Arglwydes," heb ef,
       - lb[type=edition,n=2]: '"sef ar y medwl hwnnw yd oedwn inheu, tra deweis'
       - lb[type=edition,n=3]: wrthyt ti." "Diryued oed hynny," heb hitheu.
@@ -284,7 +284,7 @@
           ual
       - lb[type=edition,n=13]:
         - y bu"-- a'e
-        - pb[type=manuscript]: 12
+        - pb[type=manuscript,n=12]
         - datkanu oll o Pwyll. "Ie, Arglwyd,"
       - lb[type=edition,n=14]: heb wy, "diolwch y Duw caffael o honot y gydymdeithas
       - lb[type=edition,n=15]: honno; a'r arglwydiaeth a gaussam ninheu y ulwydyn
@@ -301,13 +301,13 @@
       - lb[type=edition,n=26]: hynny allan.
       - lb[type=edition,n=27]:
         - A threigylgueith yd oed yn Arberth, priflys idaw, a
-        - pb[type=edition]: 9
+        - pb[type=edition,n=9]
       - lb[type=edition,n=1]: gwled darparedic idaw, ac yniueroed mawr o wyr y gyt
       - lb[type=edition,n=2]: ac ef. A guedy y bwyta kyntaf, kyuodi y orymdeith a
       - lb[type=edition,n=3]: oruc Pwyll, a chyrchu penn gorssed a oed uch llaw y
       - lb[type=edition,n=4]:
         - llys, a elwit Gorssed Arberth. "Arglwyd." heb
-        - pb[type=manuscript]: 13
+        - pb[type=manuscript,n=13]
         - un
       - lb[type=edition,n=5]: o'r Ilys, "kynnedyf yr orssed yw, pa dylyedauc bynnac
       - lb[type=edition,n=6]: a eistedo arnei, nat a odyno heb un o'r deupeth, ay
@@ -341,7 +341,7 @@
         - uei y urys ef, pellaf uydei hitheu
       - lb[type=edition,n=23]:
         - e wrthaw ef. A phan welas
-        - pb[type=manuscript]: 14
+        - pb[type=manuscript,n=14]
         - na thygyei idaw y
       - lb[type=edition,n=24]: hymlit, ymchwelut a oruc at Pwyll a dywedut wrthaw,
       - lb[type=edition,n=25]: '"Arglwyd," heb ef, "ni thykya y pedestric yn y byt
@@ -349,7 +349,7 @@
       - lb[type=edition,n=26]: hymlit hi." "Ie," heb ynteu Pwyll, "dos y'r llys, a
       - lb[type=edition,n=27]:
         - chymer y march kyntaf a wypych, a dos ragot yn y hol."
-        - pb[type=edition]: 10
+        - pb[type=edition,n=10]
       - lb[type=edition,n=1]: Y march a gymerth, ac racdaw yd aeth; y maestir
       - lb[type=edition,n=2]: guastat a gauas, ac ef a dangosses yr ysparduneu y'r
       - lb[type=edition,n=3]: march. A ffei uwyaf y lladei ef y march, pellaf uydei
@@ -367,7 +367,7 @@
       - lb[type=edition,n=13]: A thrannoeth, kyuodi e uynyd a wnaethant, a
       - lb[type=edition,n=14]:
         - threulaw hwnnw yny oed amser
-        - pb[type=manuscript]: 15
+        - pb[type=manuscript,n=15]
         - mynet y uwyta. A
       - lb[type=edition,n=15]: gwedy y bwyta kyntaf, "Ie," heb ynteu Pwyll, "ni a
       - lb[type=edition,n=16]: awn yr yniuer y buam doe, y penn yr orssed. A thidy,"
@@ -386,11 +386,11 @@
           dyd
       - lb[type=edition,n=29]:
         - gynt. Ynteu a gymerth rygyng y gan y uarch, ac ef a
-        - pb[type=edition]: 11
+        - pb[type=edition,n=11]
       - lb[type=edition,n=1]: dybygei yr araued y kerdei y uarch yr ymordiwedei a
       - lb[type=edition,n=2]:
-        - hi. A hynny ny thy
-        - pb[type=manuscript,break=no]: gywys16
+        - hi. A hynny ny thy\gywys
+        - pb[type=manuscript,n=16]
         - idaw. Ellwg y uarch a
       - lb[type=edition,n=3]:
         - oruc wrth auwyneu; nyt oed nes idi yna no chyt
@@ -431,7 +431,7 @@
           \ heb ef,"
       - lb[type=edition,n=20]:
         - wrth was y uarch, "kyfrwya
-        - pb[type=manuscript]: 17
+        - pb[type=manuscript,n=17]
         - uy march yn da, a
       - lb[type=edition,n=21]: dabre ac ef y'r ford, a dwc uy ysparduneu gennyt."
           Y
@@ -442,7 +442,7 @@
       - lb[type=edition,n=26]: heb y Pwyll, "mi a welaf y uarchoges. Moes uy march."
       - lb[type=edition,n=27]:
         - Yskynnu a oruc Pwyll ar y uarch, ac nyt kynt yd yskynn
-        - pb[type=edition]: 12
+        - pb[type=edition,n=12]
       - lb[type=edition,n=1]: ef ar y uarch, noc yd a hitheu hebdaw ef. Troi yn y
       - lb[type=edition,n=2]: hol a oruc ef, a gadel y uarch drythyll, llamsachus
           y
@@ -458,7 +458,7 @@
       - lb[type=edition,n=11]: gwaret y rann a dylyei uot am y hwyneb o wisc y phenn,
       - lb[type=edition,n=12]:
         - ac attal y golwc arnaw, a dechreu ymdidan ac ef.
-        - pb[type=manuscript]: 18
+        - pb[type=manuscript,n=18]
       - lb[type=edition,n=13]: '"Arglwydes," heb ef, "pan doy di, a pha gerdet yssyd'
       - lb[type=edition,n=14]: arnat ti?" "Kerdet wrth uy negesseu," heb hi, "a da
       - lb[type=edition,n=15]: yw gennyf dy welet ti." "Crassaw wrthyt y gennyf i,"
@@ -481,13 +481,13 @@
       - lb[type=edition,n=26]: ti a'm gwrthyt. Ac e wybot dy attep di am hynny e
       - lb[type=edition,n=27]:
         - deuthum i." "Rof i a Duw," heb ynteu Pwyll, "llyna
-        - pb[type=edition]: 13
+        - pb[type=edition,n=13]
       - lb[type=edition,n=1]: uy attep i iti, pei caffwn dewis ar holl wraged a
       - lb[type=edition,n=2]: morynnyon y byt, y mae ti a dewisswn." "Ie," heb
       - lb[type=edition,n=3]: hitheu, "os hynny a uynny, kyn uy rodi y wr arall,
       - lb[type=edition,n=4]:
         - gwna
-        - pb[type=manuscript]: 19
+        - pb[type=manuscript,n=19]
         - oed a mi." "Goreu yw gennyf i," heb y
       - lb[type=edition,n=5]: Pwyll, "bo kyntaf; ac yn y lle y mynnych ti, gwna yr
       - lb[type=edition,n=6]: oet." "Gwnaf, Arglwyd," heb hi, "blwydyn y heno,
@@ -511,7 +511,7 @@
           a
       - lb[type=edition,n=23]:
         - Riannon o'r parth arall idaw; y am hynny
-        - pb[type=manuscript]: 20
+        - pb[type=manuscript,n=20]
         - pawb
       - lb[type=edition,n=24]: ual y bei y enryded. Bwyta a chyuedach ac ymdidan a
       - lb[type=edition,n=25]: wnaethont.
@@ -520,7 +520,7 @@
       - lb[type=edition,n=28]: a guisc o bali amdanaw. A phan doeth y gynted y
       - lb[type=edition,n=29]:
         - neuad, kyuarch guell a oruc y Pwyll a'y gedymdeithon.
-        - pb[type=edition]: 14
+        - pb[type=edition,n=14]
       - lb[type=edition,n=1]: '"Cressaw Duw wrthyt, eneit, a dos y eisted," heb y'
       - lb[type=edition,n=2]: Pwyll. "Nac af," heb ef, "eirchat wyf, a'm neges a
       - lb[type=edition,n=3]: wnaf." "Gwna yn llawen," heb y Pwyll. "Arglwyd,"
@@ -538,8 +538,8 @@
       - lb[type=edition,n=15]: '"Arglwydes," heb ef, "ny wydwn i pwy oed ef."'
       - lb[type=edition,n=16]: "\"Llyna y gwr y mynyssit uy rodi i idaw o'm hanuod,\""
       - lb[type=edition,n=17]:
-        - heb hi, "Guawl uab Clut, gwr tormyn
-        - pb[type=manuscript,break=no]: nawc,21
+        - heb hi, "Guawl uab Clut, gwr tormyn\nawc,
+        - pb[type=manuscript,n=21]
       - lb[type=edition,n=18]: kyuoethawc. A chan derw yt dywedut y geir a dywedeist,
       - lb[type=edition,n=19]: dyro ui idaw rac anglot yt." "Arglwydes," heb ef, "ny
       - lb[type=edition,n=20]: wnn i pa ryw attep yw hwnnw. Ny allaf ui arnaf a
@@ -556,7 +556,7 @@
       - lb[type=edition,n=28]: heb hi, "mi a wnaf oet ac ef, ulwydyn y heno, y gyscu
       - lb[type=edition,n=29]:
         - gennyf; ac ym penn y ulwydyn," heb hi, "byd ditheu
-        - pb[type=edition]: 15
+        - pb[type=edition,n=15]
       - lb[type=edition,n=1]: a'r got honn genhyt, ar dy ganuet marchawc yn y perllan
       - lb[type=edition,n=2]: uchot. A phan uo ef ar perued y digrifwch a'y gyuedach,
       - lb[type=edition,n=3]: dyret titheu dy hun ymywn a dillat reudus amdanat, a'r
@@ -568,7 +568,7 @@
       - lb[type=edition,n=8]: ouyn yt, ʽA uyd llawn dy got ti uyth?' Dywet titheu,
       - lb[type=edition,n=9]:
         - ʽNa
-        - pb[type=manuscript]: 22
+        - pb[type=manuscript,n=22]
         - uyd, ony chyuyt dylyedauc tra chyuoethauc, a
       - lb[type=edition,n=10]: guascu a'y deudroet y bwyt yn y got, a dywedut,
       - lb[type=edition,n=11]: ʽDigawn rydodet ymman.' A minheu a baraf idaw ef
@@ -592,9 +592,9 @@
       - lb[type=edition,n=27]: ynteu a doeth y Dyuet. A'r ulwydyn honno a dreulwys
       - lb[type=edition,n=28]:
         - pawb o honunt hyt oet y wled a oed yn llys
-        - pb[type=manuscript]: 23
+        - pb[type=manuscript,n=23]
         - Eueyd
-        - pb[type=edition]: 16
+        - pb[type=edition,n=16]
       - lb[type=edition,n=1]: Hen. Gwaul uab Clut a doeth parth a'r wled a oed
       - lb[type=edition,n=2]: darparedic idaw, a chyrchu y llys a wnaeth, a llawen
       - lb[type=edition,n=3]: uuwyt wrthaw. Pwyll ynteu Penn Annwn a doeth y'r
@@ -618,7 +618,7 @@
       - lb[type=edition,n=20]: got. Ac yr a uyrit yndi ny bydei lawnach no chynt.
       - lb[type=edition,n=21]:
         - '"Eneit,"'
-        - pb[type=manuscript]: 24
+        - pb[type=manuscript,n=24]
         - heb y Guawl, "a uyd llawn dy got ti
       - lb[type=edition,n=22]: uyth?" "Na uyd, y rof a Duw," heb ef, "yr a dotter
       - lb[type=edition,n=23]: yndi uyth, ony chyuyt dylyedauc tir a dayar a chyuoeth,
@@ -630,7 +630,7 @@
           uyd
       - lb[type=edition,n=29]:
         - Guawl dros y penn yn y got ac yn gyflym caeu y got, a
-        - pb[type=edition]: 17
+        - pb[type=edition,n=17]
       - lb[type=edition,n=1]: llad clwm ar y carryeu, a dodi llef ar y gorn. Ac ar
       - lb[type=edition,n=2]:
         - hynny,
@@ -655,7 +655,7 @@
       - lb[type=edition,n=16]: uiui, nyt oed dihenyd arnaf uy llad y mywn got."
       - lb[type=edition,n=17]:
         - '"Arglwyd,"'
-        - pb[type=manuscript]: 25
+        - pb[type=manuscript,n=25]
         - heb Eueyd
         - note:
           - Euey,
@@ -677,7 +677,7 @@
       - lb[type=edition,n=27]: Heueyd a Riannon." "Kynghor yw hynny gynnym
       - lb[type=edition,n=28]:
         - ni," heb wynt. "Y gymryt a wnaf," heb y Pwyll.
-        - pb[type=edition]: 18
+        - pb[type=edition,n=18]
       - lb[type=edition,n=1]: '"Keis ueicheu drossot." "Ni a uydwn drostaw," heb'
       - lb[type=edition,n=2]: Heueyd, "yny uo ryd y wyr y uynet drostaw." Ac ar
       - lb[type=edition,n=3]: hynny y gollyngwyt ef o'r got ac y rydhawyt y oreugwyr.
@@ -690,7 +690,7 @@
       - lb[type=edition,n=10]: heb y Guawl,"briwedic wyf i, a chymriw mawr a geueis,
       - lb[type=edition,n=11]:
         - ac ennein yssyd reit ymi, ac y ymdeith yd af i, gan
-        - pb[type=manuscript]: 26
+        - pb[type=manuscript,n=26]
         - dy
       - lb[type=edition,n=12]: gannyat ti. A mi a adawaf wyrda drossof yma, y attep
       - lb[type=edition,n=13]: y pawb o'r a'th ouynno di." "Yn llawen," heb y Pwyll,
@@ -714,14 +714,14 @@
           a
       - lb[type=edition,n=28]:
         - cherdoryon dangos, a menegi udunt y llonydit pawb o
-        - pb[type=edition]: 19
+        - pb[type=edition,n=19]
       - lb[type=edition,n=1]: honunt wrth y uod a'y uympwy; a hynny a
       - lb[type=edition,n=2]: wnaethpwyd. Y wled honno a dreulwyt, ac ny
       - lb[type=edition,n=3]: ommedwyt neb tra barhaud. A phan daruu y wled,
       - lb[type=edition,n=4]: '"Arglwyd," heb y Pwyll wrth Heueyd. "mi a gychwynnaf,'
       - lb[type=edition,n=5]:
         - gan dy gannyat, parth a Dyuet
-        - pb[type=manuscript]: 27
+        - pb[type=manuscript,n=27]
         - auore."
       - lb[type=edition,n=6]: '"Ie," heb Heueyd, "Duw a rwydhao ragot; a gwna'
       - lb[type=edition,n=7]: oet a chyfnot y del Riannon i'th ol." "Y rof i a Duw,"
@@ -746,13 +746,13 @@
       - lb[type=edition,n=24]: byd it etiued o'r wreic yssyd gennyt. Ac wrth hynny,
       - lb[type=edition,n=25]: kymmer wreic arall y bo ettiued yt ohonei. Nyt byth,"
       - lb[type=edition,n=26]:
-        - pb[type=manuscript]: 28
+        - pb[type=manuscript,n=28]
         - heb wynt, "y perhey di, a chyt kerych di uot yuelly,
       - lb[type=edition,n=27]: nys diodefwn y gennyt." "Ie," heb y Pwyll, "nyt hir
       - lb[type=edition,n=28]: ettwa yd ym y gyt, a llawer damwein a digawn bot.
       - lb[type=edition,n=29]:
         - Oedwch a mi hynn hyt ym pen y ulwydyn; a blwydyn
-        - pb[type=edition]: 20
+        - pb[type=edition,n=20]
       - lb[type=edition,n=1]: y'r amser hwnn, ni a wnawn yr oet y dyuot y gyt, ac
           wrth
       - lb[type=edition,n=2]: ych kynghor y bydaf." Yr oet a wnaethant. Kynn
@@ -775,7 +775,7 @@
       - lb[type=edition,n=17]: yma," heb hi, "a chanawon genti. Lladwn rei o'r
       - lb[type=edition,n=18]:
         - canawon, ac irwn y hwyneb hitheu Riannon
-        - pb[type=manuscript]: 29
+        - pb[type=manuscript,n=29]
         - a'r
       - lb[type=edition,n=19]: gwaet, a'y dwylaw, a byrwn yr eskym gyr y bron, a
       - lb[type=edition,n=20]: thaerwn arnei e hun diuetha y mab. Ac ni byd yn taered
@@ -789,7 +789,7 @@
       - lb[type=edition,n=28]: ac ynot ti. Ac ny thygyawd ynni ymdaraw a thi. Neur
       - lb[type=edition,n=29]:
         - diffetheeist du hun dy uab, ac na hawl ef ynni." "A
-        - pb[type=edition]: 21
+        - pb[type=edition,n=21]
       - lb[type=edition,n=1]: druein," heb y Riannon, "yr yr Arglwyd Duw a wyr
       - lb[type=edition,n=2]: pob peth, na yrrwch geu arnaf. Duw, a wyr pob peth,
           a
@@ -804,7 +804,7 @@
       - lb[type=edition,n=11]: Y'r wlat yd aeth y chwedyl, a phawb o'r guyrda a'e
       - lb[type=edition,n=12]:
         - kigleu. A'r guyrda a doethant y gyt y
-        - pb[type=manuscript]: 30
+        - pb[type=manuscript,n=30]
         - wneuthur
       - lb[type=edition,n=13]: kynnadeu at Pwyll, y erchi idaw yscar a'e wreic, am
       - lb[type=edition,n=14]: gyflauan mor anwedus ac ar y wnaethoed. Sef attep a
@@ -827,13 +827,13 @@
       - lb[type=edition,n=27]: y cheuyn y'r llys. A damwein y gadei yr un y dwyn.
       - lb[type=edition,n=28]:
         - Ac yuelly treulaw talym o'r ulwydyn a wnaeth.
-        - pb[type=edition]: 22
+        - pb[type=edition,n=22]
       - lb[type=edition,n=1]: Ac yn yr amser hwnnw yd oed yn arglwyd ar Wynt
       - lb[type=edition,n=2]: Ys Coet, Teirnon Twryf Uliant, a'r gwr goreu yn y byt
       - lb[type=edition,n=3]: oed. Ac yn y ty yd oed cassec. Ac nyt oed yn y dyrnas,
       - lb[type=edition,n=4]:
         - na march
-        - pb[type=manuscript]: 31
+        - pb[type=manuscript,n=31]
         - na chassec degach no hi; a phob nos
       - lb[type=edition,n=5]: Calanmei y moei, ac ny wybydei neb un geir e wrth y
       - lb[type=edition,n=6]: hebawl. Sef a wnaeth Teirnon, ymdidan nosweith a'y
@@ -860,7 +860,7 @@
           yn
       - lb[type=edition,n=23]:
         - ol y twrwf. Ny welei ef y twrwf rac tywyllet
-        - pb[type=manuscript]: 32
+        - pb[type=manuscript,n=32]
         - y nos.
       - lb[type=edition,n=24]: Ruthyr a duc yn y ol, a'y ymlit. A dyuot cof idaw adaw
       - lb[type=edition,n=25]: y drws y agoret, ac ymhwelut a wnaeth. Ac wrth y
@@ -869,7 +869,7 @@
       - lb[type=edition,n=27]: bali yn y gylch. Kymryt y mab a wnaeth attaw, a
       - lb[type=edition,n=28]:
         - llyma y mab yn gryf yn yr oet a oed arnaw.
-        - pb[type=edition]: 23
+        - pb[type=edition,n=23]
       - lb[type=edition,n=1]: Dodi cayat ar y drws a wnaeth, a chyrchu yr ystauell
       - lb[type=edition,n=2]: yd oed y wreic yndi. "Arglwydes," heb ef, "ay kyscu
       - lb[type=edition,n=3]: yd wyt ti?" "Nac ef, Arglwyd," heb hi. "Mi a
@@ -890,7 +890,7 @@
       - lb[type=edition,n=17]: oed ar y ben o wallt, kyuelynet oed a'r eur.
       - lb[type=edition,n=18]:
         - Meithryn y mab a wnaethpwyt yn y
-        - pb[type=manuscript]: 33
+        - pb[type=manuscript,n=33]
         - llys yny
       - lb[type=edition,n=19]: oed ulwyd. A chynn y ulwyd yd oed yn kerdet yn gryf,
       - lb[type=edition,n=20]: a breiscach oed no mab teir blwyd, a uei uawr y dwf
@@ -905,7 +905,7 @@
       - lb[type=edition,n=27]: heb ef, "ac a ercheis synnyaw wrthaw." "Ponyt oed da
       - lb[type=edition,n=28]:
         - iti, Arglwyd," heb hi, "peri y hywedu, a'y rodi y'r mab?
-        - pb[type=edition]: 24
+        - pb[type=edition,n=24]
       - lb[type=edition,n=1]: Kanys y noss y keueist y mab y ganet yr ebawl ac y
       - lb[type=edition,n=2]: differeist." "Nyt af i yn erbyn hynny," heb y Teirnon.
       - lb[type=edition,n=3]: '"Mi a adaf y ti y rodi idaw." "Arglwyd," heb hi,'
@@ -919,7 +919,7 @@
       - lb[type=edition,n=11]: Twryf Uliant, o achaws y douot a gawssei, ymwarandaw
       - lb[type=edition,n=12]:
         - am y chwedyl, ac amouyn yn
-        - pb[type=manuscript]: 34
+        - pb[type=manuscript,n=34]
         - lut ymdanaw yny
       - lb[type=edition,n=13]: gigleu gan lawer o luossogrwyd, o'r a delei y'r llys,
       - lb[type=edition,n=14]: mynychu cwynaw truanet damwein Riannon, a'y phoen.
@@ -950,7 +950,7 @@
           - thriphet,
           - foreign[lg=deu-Latn]: W.
         - Arglwyd," heb hi, "a
-        - pb[type=edition]: 25
+        - pb[type=edition,n=25]
       - lb[type=edition,n=1]: gaffwn o hynny, diolwch ac elwissen o ellwg Riannon
           o'r
       - lb[type=edition,n=2]: poen y mae yndaw, a diollwch gan Pwyll am ueithryn y
@@ -958,7 +958,7 @@
       - lb[type=edition,n=4]: y mab, mab maeth ynni uyd, a goreu a allo uyth a wna
       - lb[type=edition,n=5]: inni." Ac ar y kynghor hwnnw y trigyssant. Ac ny bu
       - lb[type=edition,n=6]:
-        - pb[type=manuscript]: 35
+        - pb[type=manuscript,n=35]
         - hwy ganthunt no thrannoeth, ymgueiraw a oruc
       - lb[type=edition,n=7]: Teirnon ar y drydyd marchawc, a'r mab yn petwyryd y
       - lb[type=edition,n=8]: gyt ac wynt ar y march a rodyssei Teirnon idaw. A cherdet
@@ -989,10 +989,10 @@
       - lb[type=edition,n=26]: dechreu kyuedach, ymdidan a wnaethon. Sef ymdidan
       - lb[type=edition,n=27]:
         - a uu gan Teirnon, menegi y holl gyfranc am y gassec ac
-        - pb[type=edition]: 26
+        - pb[type=edition,n=26]
       - lb[type=edition,n=1]:
         - am y mab,
-        - pb[type=manuscript]: 36
+        - pb[type=manuscript,n=36]
         - a megys y buassei y mab ar y hardelw wy
       - lb[type=edition,n=2]: Teirnon a'e wreic, ac y megyssynt. "Ac wely dy yna dy
       - lb[type=edition,n=3]: uab, Arglwydes," heb y Teirnon. "A phwy bynnac a
@@ -1019,14 +1019,14 @@
       - lb[type=edition,n=24]: uwy y galar no hi yn y ol. Iawn yw idaw coffau ymi,
           ac
       - lb[type=edition,n=25]:
-        - pb[type=manuscript]: 37
+        - pb[type=manuscript,n=37]
         - y'r wreic honno, a wnaethom yrdaw ef." "Y rof i a
       - lb[type=edition,n=26]: Duw," heb y Pwyll,"tra parhawyf i, mi a'th kynhalyaf,
       - lb[type=edition,n=27]: a thi a'th kyuoeth, tra allwyf kynnhal y meu uy hun.
           Os
       - lb[type=edition,n=28]:
         - ynteu a uyd, iawnach yw idaw dy gynnhal nogyt y mi.
-        - pb[type=edition]: 27
+        - pb[type=edition,n=27]
       - lb[type=edition,n=1]: Ac os kynghor gennyt ti hynny, a chan hynn o wyrda,
       - lb[type=edition,n=2]: canys megeist ti ef hyt yr awr hon, ni a'e rodwn ar
           uaeth
@@ -1050,7 +1050,7 @@
       - lb[type=edition,n=19]: gan y gyuoeth, a chan pawb yn y gylch. Ac yn ol
       - lb[type=edition,n=20]:
         - hynny y kynydwys trychantref Ystrat Tywi
-        - pb[type=manuscript]: 38
+        - pb[type=manuscript,n=38]
         - a
       - lb[type=edition,n=21]: phedwar cantref Keredigyawn. Ac y gelwir y rei hynny,
       - lb[type=edition,n=22]: seith cantref Seissyllwch. Ac ar y kynnyd hwnnw y bu
@@ -1061,7 +1061,7 @@
       - lb[type=edition,n=27]: Ac yuelly y teruyna y geing hon yma o'r
       - lb[type=edition,n=28]: Mabynnogyon.
   - chapter[n=BUL]:
-    - pb[type=edition]: 29
+    - pb[type=edition,n=29]
     - head: Branwen uerch Lyr
     - p:
       - lb[type=edition,n=1]: BENDIGEIDURAN uab Llyr, a oed urenhin
@@ -1082,7 +1082,7 @@
       - lb[type=edition,n=16]: teir llong ar dec, yn dyuot o deheu Iwerdon, ac yn
       - lb[type=edition,n=17]:
         - kyrchu parth ac attunt,
-        - pb[type=manuscript]: 39
+        - pb[type=manuscript,n=39]
         - a cherdet rugyl ebrwyd
       - lb[type=edition,n=18]: 'ganthunt: y gwynt yn eu hol, ac yn nessau yn ebrwyd'
       - lb[type=edition,n=19]: attunt. "Mi a welaf longeu racco," heb y brenhin, "ac
@@ -1091,7 +1091,7 @@
       - lb[type=edition,n=22]: eidunt." Y gwyr a wiscawd amdanunt ac a nessayssant
       - lb[type=edition,n=23]:
         - attunt y wayret. Gwedy guelet y llongeu o agos, diheu
-        - pb[type=edition]: 30
+        - pb[type=edition,n=30]
       - lb[type=edition,n=1]: oed ganthunt na welsynt eiryoet llongeu gyweirach eu
       - lb[type=edition,n=2]: hansawd noc wy. Arwydon tec, guedus, arwreid o bali
       - lb[type=edition,n=3]: oed arnunt.
@@ -1113,7 +1113,7 @@
       - lb[type=edition,n=16]: ef? A uyn ef dyuot y'r tir?" "Na uynn, Arglwyd,"
       - lb[type=edition,n=17]:
         - heb wynt, "negessawl
-        - pb[type=manuscript]: 40
+        - pb[type=manuscript,n=40]
         - yw wrthyt ti, onyt y neges a
       - lb[type=edition,n=18]: geif." "By ryw neges yw yr eidaw ef?" heb y brenhin.
       - lb[type=edition,n=19]: '"Mynnu ymgyuathrachu a thidy, Arglwyd," heb wynt.'
@@ -1129,7 +1129,7 @@
       - lb[type=edition,n=28]: Yn y lle trannoeth, kymryt kynghor. Sef a gahat
       - lb[type=edition,n=29]:
         - yn y kynghor, rodi Branwen y Uatholwch. A honno
-        - pb[type=edition]: 31
+        - pb[type=edition,n=31]
       - lb[type=edition,n=1]: oed tryded prif rieni yn yr ynys hon; teccaf morwyn
           yn
       - lb[type=edition,n=2]: y byt oed. A gwneuthur oed yn Aberfraw y gyscu
@@ -1144,7 +1144,7 @@
       - lb[type=edition,n=11]: Nyt ymywn ty yd oydynt, namyn ymywn palleu.
       - lb[type=edition,n=12]: Ny angassei Uendigeituran eiryoet ymywn ty.
       - lb[type=edition,n=13]:
-        - pb[type=manuscript]: 41
+        - pb[type=manuscript,n=41]
         - A'r gyuedach a dechreussant. Dilit y gyuedach
       - lb[type=edition,n=14]: a wnaethant ac ymdidan. A phan welsant uot yn well
       - lb[type=edition,n=15]: udunt kymryt hun no dilyt kyuedach, y gyscu yd aethant.
@@ -1163,7 +1163,7 @@
       - lb[type=edition,n=27]: yuelly y gwnaethant wy am uorwyn kystal a honno, ac
       - lb[type=edition,n=28]:
         - yn chwaer y minheu, y rodi heb uyghanyat i? Ny
-        - pb[type=edition]: 32
+        - pb[type=edition,n=32]
       - lb[type=edition,n=1]: ellynt wy tremic uwy arnaf i," heb ef. Ac yn hynny
       - lb[type=edition,n=2]: guan y dan y meirych, a thorri y guefleu wrth y danned
       - lb[type=edition,n=3]: udunt, a'r clusteu wrth y penneu, a'r rawn wrth y keuyn;
@@ -1173,7 +1173,7 @@
       - lb[type=edition,n=7]: E chwedyl a doeth at Uatholwch. Sef ual y doeth,
       - lb[type=edition,n=8]:
         - dywedut
-        - pb[type=manuscript]: 42
+        - pb[type=manuscript,n=42]
         - anfuruaw y ueirych ac eu llygru, hyt nat
       - lb[type=edition,n=9]: oed un mwynyant a ellit o honunt. "Ie, Arglwyd," heb
       - lb[type=edition,n=10]: un, "dy waradwydaw yr a wnaethpwyt, a hynny a
@@ -1197,11 +1197,11 @@
       - lb[type=edition,n=27]: Lyr ym, yn tryded prif rieni yr ynys honn, ac yn uerch
       - lb[type=edition,n=28]:
         - y urenhin Ynys y Kedeyrn, a chyscu genthi, a gwedy
-        - pb[type=edition]: 33
+        - pb[type=edition,n=33]
       - lb[type=edition,n=1]: hynny uy gwaradwydaw. A ryued oed genhyf, nat kyn
       - lb[type=edition,n=2]:
         - rodi morwyn gystal a honno ym, y gwneit y
-        - pb[type=manuscript]: 43
+        - pb[type=manuscript,n=43]
         - gwaradwyd
       - lb[type=edition,n=3]: a wnelit ym." "Dioer, Arglwyd, nyt o uod y neb a
       - lb[type=edition,n=4]: uedei y llys," heb wynt, "na neb o'e kynghor y
@@ -1231,14 +1231,14 @@
           ef,
       - lb[type=edition,n=25]:
         - '"a mi a wnaf y dangneued ar y llun'
-        - pb[type=manuscript]: 44
+        - pb[type=manuscript,n=44]
         - y mynho e hun."
       - lb[type=edition,n=26]: E kennadeu a aethant ar ol Matholwch, ac a uanagyssant
       - lb[type=edition,n=27]: idaw yr ymadrawd hwnnw yn garedic, ac ef a'e
       - lb[type=edition,n=28]: guerendewis. "A wyr," heb ef, "ni a gymerwn gynghor."
       - lb[type=edition,n=29]:
         - Ef a aeth yn y gynghor; sef kynghor a uedylyssant, --os
-        - pb[type=edition]: 34
+        - pb[type=edition,n=34]
       - lb[type=edition,n=1]: gwrthot hynny a wnelynt, bot yn tebygach ganthunt cael
       - lb[type=edition,n=2]: kywilid a uei uwy, no chael iawn a uei uwy. A disgynnu,
       - lb[type=edition,n=3]: a wnaeth ar gymryt hynny. Ac y'r llys y deuthant yn
@@ -1265,7 +1265,7 @@
       - lb[type=edition,n=18]: heuyt yt," heb y Bendigeituran. "Mi a rodaf yt peir;
       - lb[type=edition,n=19]:
         - a chynnedyf y peir yw,
-        - pb[type=manuscript]: 45
+        - pb[type=manuscript,n=45]
         - y gwr a lader hediw yt, y
       - lb[type=edition,n=20]: uwrw yn y peir, ac erbyn auory y uot yn gystal ac y
           bu
@@ -1277,7 +1277,7 @@
       - lb[type=edition,n=26]: yny uu gwbyl idaw y dal. Ac wrth hynny y dodet ar y
       - lb[type=edition,n=27]:
         - kymwt hwnnw o hynny allan, Tal Ebolyon.
-        - pb[type=edition]: 35
+        - pb[type=edition,n=35]
       - lb[type=edition,n=1]: A'r eil nos, eisted y gyt a wnaethant. "Arglwyd,"
       - lb[type=edition,n=2]: heb y Matholwch, "pan doeth yti y peir a rodeist y mi?"
       - lb[type=edition,n=3]: "\"E doeth im,\" heb ef, \"y gan wr a uu y'th wlat ti.\
@@ -1301,7 +1301,7 @@
       - lb[type=edition,n=15]: A gwr heuyt athrugar, mawr, a drygweith anorles arnaw
       - lb[type=edition,n=16]:
         - oed; a gwreic yn y ol; ac ot
-        - pb[type=manuscript]: 46
+        - pb[type=manuscript,n=46]
         - oed uawr ef, mwy dwyweith
       - lb[type=edition,n=17]: oed y wreic noc ef. A chyrchu ataf a wnaethant, a
       - lb[type=edition,n=18]: chyuarch uell im." "Ie," heb y mi, "pa gerdet yssyd
@@ -1327,7 +1327,7 @@
         - wynt
       - lb[type=edition,n=27]:
         - eu hun yn peri eu hatcassu, ac anghynwys yn y wlat, yn
-        - pb[type=edition]: 36
+        - pb[type=edition,n=36]
       - lb[type=edition,n=1]: gwneuthur sarahedeu, ac yn eighaw, ac yn gouudyaw
       - lb[type=edition,n=2]: guyrda a gwragedda. O hynny allan y dygyuores uyg
       - lb[type=edition,n=3]: kyuoeth am ym pen, y erchi im ymuadeu ac wynt, a
@@ -1341,7 +1341,7 @@
       - lb[type=edition,n=10]: a oed o perchen geuel a mwrthwl, a pheri gossot kyuuch
       - lb[type=edition,n=11]:
         - a chrib yr ystauell o lo, a pheri guassanaethu
-        - pb[type=manuscript]: 47
+        - pb[type=manuscript,n=47]
         - yn
       - lb[type=edition,n=12]: diwall o uwyt a llyn arnunt, ar y wreic, a'y gwr, a'y
       - lb[type=edition,n=13]: phlant. A phan wybuwyt eu medwi wynteu, y dechreuwyt
@@ -1365,7 +1365,7 @@
       - lb[type=edition,n=28]: cadarnhau y uann y bythont, o wyr ac arueu goreu a
       - lb[type=edition,n=29]:
         - welas neb."
-        - pb[type=edition]: 37
+        - pb[type=edition,n=37]
       - lb[type=edition,n=1]: Dilit ymdidan a wnaethant y nos honno, tra uu da
       - lb[type=edition,n=2]: ganthunt, a cherd a chyuedach. A phan welsant uot
       - lb[type=edition,n=3]: yn llessach udunt uynet y gyscu noc eisted a wei hwy,
@@ -1373,7 +1373,7 @@
       - lb[type=edition,n=4]: gyscu yd aethant. Ac yuelly y treulyssant y wled honno
       - lb[type=edition,n=5]:
         - drwy digriuwch. Ac
-        - pb[type=manuscript]: 48
+        - pb[type=manuscript,n=48]
         - yn niwed hynny, y kychwynnwys
       - lb[type=edition,n=6]: Matholwch, a Branuen y gyt ac ef, parth ac
       - lb[type=edition,n=7]: Iwerdon. A hynny o Abermenei y kychwynnyssant teir
@@ -1402,10 +1402,10 @@
       - lb[type=edition,n=27]: a'y chymell y bobi yn y llys, a pheri y'r kygyd, gwedy
       - lb[type=edition,n=28]:
         - bei yn dryllyaw kic, dyuot idi a tharaw bonclust arnei
-        - pb[type=edition]: 38
+        - pb[type=edition,n=38]
       - lb[type=edition,n=1]:
         - beunyd. Ac yuelly
-        - pb[type=manuscript]: 49
+        - pb[type=manuscript,n=49]
         - y gwnaethpwyt y foen. "Ie,
       - lb[type=edition,n=2]: Arglwyd," heb y wyr wrth Uatholwch, "par weithon
       - lb[type=edition,n=3]: wahard y llongeu, a'r yscraffeu, a'r corygeu, ual nat
@@ -1441,11 +1441,11 @@
       - lb[type=edition,n=25]: dywyssogyon yma, a Chradawc uab Bran y benhaf, ac eu
       - lb[type=edition,n=26]:
         - seith
-        - pb[type=manuscript]: 50
+        - pb[type=manuscript,n=50]
         - marchawc. Yn Edeirnon yd edewit y gwyr
       - lb[type=edition,n=27]:
         - hynny, ac o achaws hynny y dodet Seith Marchawc ar y
-        - pb[type=edition]: 39
+        - pb[type=edition,n=39]
       - lb[type=edition,n=1]: dref. Sef seithwyr oedynt, Cradawc uab Bran, ac Euehyd
       - lb[type=edition,n=2]: Hir, ac Unic Glew Yscwyd, ac Idic uab Anarawc Walltgrwn,
       - lb[type=edition,n=3]: a Fodor uab Eruyll, ac Wlch Minasgwrn, a Llashar
@@ -1485,14 +1485,14 @@
         - dim
       - lb[type=edition,n=23]: namyn hynny?" "Gwelem, Arglwyd," heb wy, "mynyd
       - lb[type=edition,n=24]:
-        - pb[type=manuscript]: 51
+        - pb[type=manuscript,n=51]
         - mawr gyr llaw y coet, a hwnnw ar gerdet; ac eskeir
       - lb[type=edition,n=25]: aruchel ar y mynyd, a llynn o pop parth y'r eskeir;
           a'r
       - lb[type=edition,n=26]: coet, a'r mynyd, a phob peth oll o hynny ar gerdet."
       - lb[type=edition,n=27]:
         - '"Ie," heb ynteu, "nyt oes neb yma a wypo dim y wrth'
-        - pb[type=edition]: 40
+        - pb[type=edition,n=40]
       - lb[type=edition,n=1]: hynny, onys gwyr Branwen. Gouynnwch idi." Kennadeu
       - lb[type=edition,n=2]: a aeth at Uranwen. "Arglwydes," heb wy,
       - lb[type=edition,n=3]: '"beth dybygy di yw hynny?" "Kyn ny bwyf'
@@ -1515,7 +1515,7 @@
           bont
       - lb[type=edition,n=20]:
         - yssyd ar yr auon.
-        - pb[type=manuscript]: 52
+        - pb[type=manuscript,n=52]
         - A mein sugyn yssyd ygwaelawt yr
       - lb[type=edition,n=21]: auon, ny eill na llong na llestyr arnei." Wynt a gylyssant
       - lb[type=edition,n=22]: drwy yr auon, ac a torryssant y bont.
@@ -1527,7 +1527,7 @@
       - lb[type=edition,n=26]: oes bont arnei hitheu. Mae dy gynghor am bont?" heb
       - lb[type=edition,n=27]:
         - wy. "Nit oes," heb ynteu, "namyn a uo penn bit pont.
-        - pb[type=edition]: 41
+        - pb[type=edition,n=41]
       - lb[type=edition,n=1]: Mi a uydaf pont," heb ef. Ac yna gyntaf y dywetpwyt
       - lb[type=edition,n=2]: y geir hwnnw, ac y diharebir etwa ohonaw.
       - lb[type=edition,n=3]: Ac yna guedy gorwed ohonaw ef ar traws yr auon, y
@@ -1545,7 +1545,7 @@
       - lb[type=edition,n=15]: '"ony allaf i ue hun cael y urenhinaeth, ac aduyd ys'
       - lb[type=edition,n=16]:
         - kymeraf gynghor
-        - pb[type=manuscript]: 53
+        - pb[type=manuscript,n=53]
         - am ych kennadwri chwi. O hyn
       - lb[type=edition,n=17]: hyt ban del amgen, ny cheffwch y genhyf i attep."
       - lb[type=edition,n=18]: '"Ie," heb wynteu, "yr atteb goreu a gaffom ninheu,'
@@ -1561,7 +1561,7 @@
       - lb[type=edition,n=27]: mywn ty eiryoet," heb wy. "Gwna ty," heb wy, "o'y
       - lb[type=edition,n=28]:
         - anryded ef, y ganho ef a gwyr Ynys y Kedyrn yn y
-        - pb[type=edition]: 42
+        - pb[type=edition,n=42]
       - lb[type=edition,n=1]: neillparth y'r ty, a thitheu a'th lu yn y parth arall.
           A
       - lb[type=edition,n=2]: doro dy urenhinaeth yn y ewyllus, a gwra idaw. Ac o
@@ -1576,7 +1576,7 @@
       - lb[type=edition,n=11]: ac yn braf. Ac ystryw a wnaeth y Gwydyl. Sef ystryw
       - lb[type=edition,n=12]:
         - a wnaethant, dodi guanas o bop parth
-        - pb[type=manuscript]: 54
+        - pb[type=manuscript,n=54]
         - y bop colouyn
       - lb[type=edition,n=13]: o cant colouyn oed yn y ty, a dodi boly croyn ar bop
       - lb[type=edition,n=14]: guanas, a gwr aruawc ym pob vn o honunt. Sef a wnaeth
@@ -1599,7 +1599,7 @@
       - lb[type=edition,n=26]: hwnnw, a gouyn, "Beth yssyd yma?" "Blawt, eneit,"
       - lb[type=edition,n=27]:
         - heb y Gwydel. Sef a wnaeth ynteu, y deimlaw ef yny
-        - pb[type=edition]: 43
+        - pb[type=edition,n=43]
       - lb[type=edition,n=1]: gauas y benn, ac ual y guascassei benneu y rei ereill,
       - lb[type=edition,n=2]: guascu penn hwnnw. Sef y clywei arueu am benn
       - lb[type=edition,n=3]: hwnnw. Nyt ymedewis ef a hwnnw, yny ladawd. Ac
@@ -1609,8 +1609,8 @@
       - lb[type=edition,n=7]: Rac kydwyr cad barawt.
       - lb[type=edition,n=8]: Ac ar hynny y dothyw y niueroed y'r ty. Ac y doeth
       - lb[type=edition,n=9]:
-        - gwyr Ynys Iwer
-        - pb[type=manuscript,break=no]: don55
+        - gwyr Ynys Iwer\don
+        - pb[type=manuscript,n=55]
         - y'r ty o'r neill parth, a gwyr
       - lb[type=edition,n=10]: Ynys y Kedyrn o'r parth arall. Ac yn gynebrwydet ac
       - lb[type=edition,n=11]: yd eistedyssant, y bu duundeb y rydunt, ac yd ystynnwyt
@@ -1637,11 +1637,11 @@
           - foreign[lg=deu-Latn]: R.
       - lb[type=edition,n=28]:
         - uwrw neit yn y tan, o'r lle yd oed yn eisted rwng y deu
-        - pb[type=edition]: 44
+        - pb[type=edition,n=44]
       - lb[type=edition,n=1]: uroder. A chael o Uendigeiduran hi yn y neill law, a'y
       - lb[type=edition,n=2]:
         - tarean yn y llaw arall. Ac yna, ymgyuot
-        - pb[type=manuscript]: 56
+        - pb[type=manuscript,n=56]
         - o bawb
       - lb[type=edition,n=3]: ar hyt y ty. A llyna y godwrw mwyhaf a uu gan yniuer
       - lb[type=edition,n=4]: un ty, pawb yn kymryt y arueu. Ac yna y dywot
@@ -1671,14 +1671,14 @@
       - lb[type=edition,n=24]: guenwynwaew.
       - lb[type=edition,n=25]: Sef seithwyr a dienghis, Pryderi, Manawydan,
       - lb[type=edition,n=26]:
-        - Gliuieu Eil Taran, Ta
-        - pb[type=manuscript,break=no]: lyessin,57
+        - Gliuieu Eil Taran, Ta\lyessin,
+        - pb[type=manuscript,n=57]
         - ac Ynawc, Grudyeu
       - lb[type=edition,n=27]: uab Muryel, Heilyn uab Gwyn Hen.
       - lb[type=edition,n=28]: Ac yna y peris Bendigeiduran llad y benn. "A
       - lb[type=edition,n=29]:
         - chymerwch chwi y penn," heb ef, "a dygwch hyt y
-        - pb[type=edition]: 45
+        - pb[type=edition,n=45]
       - lb[type=edition,n=1]: Gwynuryn yn Llundein, a chledwch a'y wyneb ar Freinc
       - lb[type=edition,n=2]: ef. A chwi a uydwch ar y ford yn hir; yn Hardlech y
       - lb[type=edition,n=3]: bydwch seith mlyned ar ginyaw, ac Adar Riannon y
@@ -1710,8 +1710,8 @@
       - lb[type=edition,n=19]: uawr, a thorri y chalon ar hynny. A gwneuthur bed
       - lb[type=edition,n=20]: petrual idi, a'e chladu yno yglan Alaw.
       - lb[type=edition,n=21]:
-        - Ac ar hynny, ker
-        - pb[type=manuscript,break=no]: det58
+        - Ac ar hynny, ker\det
+        - pb[type=manuscript,n=58]
         - a wnaeth y seithwyr parth
       - lb[type=edition,n=22]: a Hardlech, a'r penn ganthunt. Val y bydant y kerdet,
       - lb[type=edition,n=23]: llyma gyweithyd yn kyuaruot ac wynt, o wyr a gwraged.
@@ -1721,7 +1721,7 @@
       - lb[type=edition,n=26]: Beli Ynys y Kedyrn, a'y uot yn urenhin coronawc yn
       - lb[type=edition,n=27]:
         - Llundein." "Pa daruu," heb wynteu, "y Gradawc
-        - pb[type=edition]: 46
+        - pb[type=edition,n=46]
       - lb[type=edition,n=1]: uab Bran, a'r seithwyr a edewit y gyt ac ef yn yr ynys
       - lb[type=edition,n=2]: honn?" "Dyuot Caswallawn am eu penn, a llad y
       - lb[type=edition,n=3]: chwegwyr, a thorri ohonaw ynteu Gradawc y galon o
@@ -1743,7 +1743,7 @@
       - lb[type=edition,n=16]: A fell dremynt oed udunt y guelet uch benn y weilgi
           allan.
       - lb[type=edition,n=17]:
-        - pb[type=manuscript]: 59
+        - pb[type=manuscript,n=59]
         - A chyn amlyket oed udunt wy a chyn bydynt gyt
       - lb[type=edition,n=18]: ac wy. Ac ar hynny o ginyaw y buant seith mlyned.
       - lb[type=edition,n=19]: Ac ym penn y seithuet ulwydyn, y kychwynyssant
@@ -1758,7 +1758,7 @@
           wy
       - lb[type=edition,n=28]:
         - dim, nac o hynny, nac o alar yn y byt. Ac yno y
-        - pb[type=edition]: 47
+        - pb[type=edition,n=47]
       - lb[type=edition,n=1]: treulyssant y pedwarugeint mlyned hyt na wybuant wy
       - lb[type=edition,n=2]: eiryoet dwyn yspeit digriuach na hyurydach no honno.
       - lb[type=edition,n=3]: Nyt oed anesmwythach, nac adnabot o un ar y gilyd y
@@ -1771,7 +1771,7 @@
       - lb[type=edition,n=10]: Sef a wnaeth Heilyn uab Guyn dydgueith. "Meuyl
       - lb[type=edition,n=11]:
         - ar uy maryf i," heb ef, "onyt agoraf y
-        - pb[type=manuscript]: 60
+        - pb[type=manuscript,n=60]
         - drws, e wybot
       - lb[type=edition,n=12]: ay gwir a dywedir am hynny." Agori y drws a wnaeth,
           ac
@@ -1801,7 +1801,7 @@
       - lb[type=edition,n=26]: '"Y gwyr a gychwynwys o Iwerdon," yw hwnnw.'
       - lb[type=edition,n=27]:
         - En Iwerdon nyt edewit dyn byw, namyn pump
-        - pb[type=edition]: 48
+        - pb[type=edition,n=48]
       - lb[type=edition,n=1]: gwraged beichawc ymywn gogof yn diffeithwch Iwerdon.
       - lb[type=edition,n=2]: A'r pump wraged hynny, yn yr un kyfnot. a anet udunt
       - lb[type=edition,n=3]: pum meib. A'r pym meib hynny a uagvssant, hyt ban
@@ -1809,7 +1809,7 @@
       - lb[type=edition,n=5]: yny uu damunet gantunt eu cafael. Ac yna, kyscu pob
       - lb[type=edition,n=6]:
         - un lau heb lau
-        - pb[type=manuscript]: 61
+        - pb[type=manuscript,n=61]
         - gan uam y gilid, a gwledychu y wlat
       - lb[type=edition,n=7]: a'y chyuanhedu, a'y ranhu y rydunt yll pymp. Ac o
       - lb[type=edition,n=8]: achaws y ranyat hwnnw y gelwir etwan pymp rann
@@ -1830,7 +1830,7 @@
           - foreign[lg=deu-Latn]: R.
       - lb[type=edition,n=18]: Yspydaut Benn pedwarugeint mlyned.
   - chapter[n=MUL]:
-    - pb[type=edition]: 49
+    - pb[type=edition,n=49]
     - head: Manawydan uab Llyr
     - p:
       - lb[type=edition,n=1]: GUEDY daruot y'r seithwyr a dywedyssam ni uchot;
@@ -1845,8 +1845,8 @@
       - lb[type=edition,n=10]: Dy geuynderw yssyd urenhin yn Ynys y Kedyrn; a chyn
       - lb[type=edition,n=11]: gwnel gameu it," heb ef, "ny buost hawlwr tir a dayar
       - lb[type=edition,n=12]:
-        - ei
-        - pb[type=manuscript,break=no]: ryoet.62
+        - ei\ryoet.
+        - pb[type=manuscript,n=62]
         - Trydyd lledyf unben wyt." "Ie," heb ef,
       - lb[type=edition,n=13]: '"kyt boet keuynderw y mi y gwr hwnnw, goathrist yw'
       - lb[type=edition,n=14]: genhyf i guelet neb yn lle Bendigeiduran uy mrawt,
@@ -1862,7 +1862,7 @@
       - lb[type=edition,n=22]: Kicua, uerch Wyn Gloyw, yw uy gwreic inheu," heb ef.
       - lb[type=edition,n=23]:
         - '"A chyn bo enwedigaeth y kyuoeth y mi, bit y mwynant'
-        - pb[type=edition]: 50
+        - pb[type=edition,n=50]
       - lb[type=edition,n=1]: y ti a Riannon. A phei mynhut gyuoeth eiryoet, aduyd
           y
       - lb[type=edition,n=2]: caffut ti [waeth] hwnnw." "Na uynhaf, unben," heb ef,
@@ -1876,7 +1876,7 @@
       - lb[type=edition,n=10]: anuodlawn y phryt."
       - lb[type=edition,n=11]:
         - Vynt a gerdassant racdunt. A pha hyt
-        - pb[type=manuscript]: 63
+        - pb[type=manuscript,n=63]
         - bynnac
       - lb[type=edition,n=12]: y bydynt ar y ford, wynt a doethant y Dyuet. Gwled
       - lb[type=edition,n=13]: darparedic oed udunt erbyn eu dyuot yn Arberth, a
@@ -1897,7 +1897,7 @@
       - lb[type=edition,n=27]: "\"Ar ny deryw o'r wled,\" heb y Pryderi, \"treulwch"
       - lb[type=edition,n=28]:
         - chwi, a minheu a af y hebrwng uy gwrogaeth y Gaswallawn
-        - pb[type=edition]: 51
+        - pb[type=edition,n=51]
       - lb[type=edition,n=1]: uab Beli hyt yn Lloegyr." "Arglwyd," heb y
       - lb[type=edition,n=2]: Riannon, "yg Kent y mae Caswallawn, a thi a elly
       - lb[type=edition,n=3]: treulaw y wled honn a'y arhos a uo nes." "Ninheu a'y
@@ -1906,7 +1906,7 @@
       - lb[type=edition,n=6]: eu digriuwch.
       - lb[type=edition,n=7]:
         - Ac wrth rodyaw y wlat ny welsynt eiryoet wlat
-        - pb[type=manuscript]: 64
+        - pb[type=manuscript,n=64]
       - lb[type=edition,n=8]: gyuanhedach no hi, na heldir well, nac amlach y mel
           na'y
       - lb[type=edition,n=9]: physcawt no hi. Ac yn hynny tyuu kedyrndeithas y
@@ -1932,7 +1932,7 @@
           na
       - lb[type=edition,n=28]:
         - mwc, na than, na dyn, na chyuanhed, eithyr tei y llys yn
-        - pb[type=edition]: 52
+        - pb[type=edition,n=52]
       - lb[type=edition,n=1]:
         - wac, diffeith, anghyuanhed, heb dyn, heb uil yndunt
         - note:
@@ -1940,7 +1940,7 @@
           - foreign[lg=deu-Latn]: W.
       - lb[type=edition,n=2]:
         - eu kedyrndeithon e hun
-        - pb[type=manuscript]: 65
+        - pb[type=manuscript,n=65]
         - wedy eu colli, heb wybot
       - lb[type=edition,n=3]: dim y wrthunt, onyt wyll pedwar.
       - lb[type=edition,n=4]: '"Oy a Arglwyd Duw," heb y Manawydan, "mae'
@@ -1971,9 +1971,9 @@
       - lb[type=edition,n=26]: am y wneuthur o Lassar Llaes Gygnwyt. Ac o'r gueith
       - lb[type=edition,n=27]:
         - hwnnw, tra
-        - pb[type=manuscript]: 66
+        - pb[type=manuscript,n=66]
         - geffit gan Uanawydan, ny phrynit
-        - pb[type=edition]: 53
+        - pb[type=edition,n=53]
       - lb[type=edition,n=1]: gan gyfrwyd dros wyneb Henford, na choryf, na chyfrwy,
       - lb[type=edition,n=2]: ac yny adnabu pob un o'r kyfrwydyon y uot yn colli o'y
       - lb[type=edition,n=3]: henill, ac ny frynit dim ganthunt, onyt guedy na cheffit
@@ -1997,8 +1997,8 @@
       - lb[type=edition,n=20]: A'r gweith hwnnw a lwydwys racdunt, hyt na phrynit
       - lb[type=edition,n=21]: taryan yn yr holl dref, onyt guedy na cheffit ganthunt
       - lb[type=edition,n=22]:
-        - wy. Kyflym oed y gueith wynteu, a diuessur a w
-        - pb[type=manuscript,break=no]: neynt67
+        - wy. Kyflym oed y gueith wynteu, a diuessur a w\neynt
+        - pb[type=manuscript,n=67]
       - lb[type=edition,n=23]: ac yuelly y buant yny dygywys yw kytdrefwyr racdunt,
       - lb[type=edition,n=24]: ac yny duunyssant ar geissaw eu llad. Rybud a doeth
       - lb[type=edition,n=25]: udunt wynteu; a chlybot bot y gwyr ac y bryt ar eu
@@ -2010,7 +2010,7 @@
           - inheu,
           - foreign[lg=deu-Latn]: W.
         - y gan y
-        - pb[type=edition]: 54
+        - pb[type=edition,n=54]
       - lb[type=edition,n=1]: tayogeu hynny. Awn adanunt a lladwn." "Nac ef,"
       - lb[type=edition,n=2]: heb ynteu, "Casswallawn a glywei hynny, a'e wyr, a
       - lb[type=edition,n=3]: rewin uydem. Kyrchu tref arall a wnawn." Vynt a
@@ -2031,7 +2031,7 @@
       - lb[type=edition,n=17]: guaegeu, a synnyaw e hun ar hynny yny gwybu. Ac
       - lb[type=edition,n=18]:
         - o'r achaws hwnnw, y gelwit ef yn tryded
-        - pb[type=manuscript]: 68
+        - pb[type=manuscript,n=68]
         - eurgryd.
       - lb[type=edition,n=19]: Tra geffit gantaw ef, nac eskit, na hossan, ny
       - lb[type=edition,n=20]: phrynit dim gan gryd yn yr holl dref. Sef a wnaeth
@@ -2049,7 +2049,7 @@
         - hynny gan y tayogeu lladron," heb y Pryderi,
       - lb[type=edition,n=27]:
         - '"namyn eu llad oll?" "Nac ef," heb y Manawydan, "nyt'
-        - pb[type=edition]: 55
+        - pb[type=edition,n=55]
       - lb[type=edition,n=1]: ymladwn ac wynt, ac ny bydwn yn Lloygyr ballach.
       - lb[type=edition,n=2]: Kyrchwn parth a Dyuet, ac awn y hedrych."
       - lb[type=edition,n=3]: Byhyt bynnac y buant ar y fford, wynt a doethant y
@@ -2064,7 +2064,7 @@
       - lb[type=edition,n=12]: ac ymchwelut at y guyr. "Nessawn," heb y Pryderi,
       - lb[type=edition,n=13]: "\"parth a'r berth, y edrych beth yssyd yndi.\" Nessau"
       - lb[type=edition,n=14]:
-        - pb[type=manuscript]: 69
+        - pb[type=manuscript,n=69]
         - pirth a'r berth. Pan nessaant, llyma uaed coed claerwynn
       - lb[type=edition,n=15]: yn kyuodi o'r berth; sef a oruc y cwn, o hyder y
       - lb[type=edition,n=16]: guyr, ruthraw idaw. Sef a wnaeth ynteu, adaw y berth,
@@ -2086,7 +2086,7 @@
       - lb[type=edition,n=27]: Pa hyt bynnac y bydynt yuelly, ny chlywynt un o'r
       - lb[type=edition,n=28]:
         - cwn na dim y wrthunt. "Arglwyd," heb y Pryderi, "mi
-        - pb[type=edition]: 56
+        - pb[type=edition,n=56]
       - lb[type=edition,n=1]: a af y'r gaer, y geissaw chwedleu y wrth y cwn." "Dioer,"
       - lb[type=edition,n=2]: heb ynteu, "nyt da dy gynghor uynet y'r gaer, [Ny
       - lb[type=edition,n=3]: welsam ni y gaer] honn yma eiryoet. Ac o gwney
@@ -2098,7 +2098,7 @@
           na
       - lb[type=edition,n=8]:
         - dyn, na mil,
-        - pb[type=manuscript]: 70
+        - pb[type=manuscript,n=70]
         - na'r baed, na'r cwn, na thy, nac anhed, ny
       - lb[type=edition,n=9]: welei yn y gaer. Ef a welei, ual am gymherued llawr
           y
@@ -2133,12 +2133,12 @@
           "ys
       - lb[type=edition,n=27]:
         - drwc a gedymdeith uuosti, ac ys da a gedymdeith a golleisti."
-        - pb[type=edition]: 57
+        - pb[type=edition,n=57]
       - lb[type=edition,n=1]: A chan y geir hwnnw mynet allan, ac y traws y
       - lb[type=edition,n=2]: managassei ef uot y gwr a'r gaer, kyrchu a wnaeth
       - lb[type=edition,n=3]: hitheu.
       - lb[type=edition,n=4]:
-        - pb[type=manuscript]: 71
+        - pb[type=manuscript,n=71]
         - Porth y gaer a welas yn agoret; ny bu argel
       - lb[type=edition,n=5]: arnei. Ac y mywn y doeth, ac y gyt ac y doeth, arganuot
       - lb[type=edition,n=6]: Pryderi yn ymauael a'r cawc, a dyuot attaw. "Och, uy
@@ -2165,7 +2165,7 @@
           a'
       - lb[type=edition,n=24]:
         - uynych y genhyf i, herwyd uyg gallu i,
-        - pb[type=manuscript]: 72
+        - pb[type=manuscript,n=72]
         - tra welho
       - lb[type=edition,n=25]: Duw yn bot yn y dihirwch hwnn a'r goual." "Duw a
       - lb[type=edition,n=26]:
@@ -2183,7 +2183,7 @@
         - o'r uorwyn o achaws hynny.
       - lb[type=edition,n=28]:
         - '"Ie, eneit," heb y Manawydan, "nyt kyfle yni'
-        - pb[type=edition]: 58
+        - pb[type=edition,n=58]
       - lb[type=edition,n=1]: trigyaw yma. Yn cwn a gollyssam, ac ymborth ny
       - lb[type=edition,n=2]: allwn. Kyrchwn Loegyr. Hawssaf yw in ymborth
       - lb[type=edition,n=3]: yno." "Yn llawen, Arglwyd," heb hi, "a ni a wnawn
@@ -2212,7 +2212,7 @@
       - lb[type=edition,n=17]: crydyon yn dala kynuigen a chynghoruyn wrthaw, ac yny
       - lb[type=edition,n=18]:
         - doeth rybudyeu idaw,
-        - pb[type=manuscript]: 73
+        - pb[type=manuscript,n=73]
         - a menegi uot y crydyon wedy
       - lb[type=edition,n=19]: duunaw ar y lad. "Arglwyd," heb y Kicua, "pam y
       - lb[type=edition,n=20]: diodeuir hynn gan y tayogeu?" "Nac ef," heb ynteu,
@@ -2224,7 +2224,7 @@
       - lb[type=edition,n=26]: y buassei yn hela, ef a Pryderi, a Riannon gyt ac
       - lb[type=edition,n=27]:
         - wynt.
-        - pb[type=edition]: 59
+        - pb[type=edition,n=59]
       - lb[type=edition,n=1]: Dechreu a wnaeth kyneuinaw a hela pyscawt, a llydnot
       - lb[type=edition,n=2]: ar eu gual yno. Ac yn ol hynny dechreu ryuoryaw,
       - lb[type=edition,n=3]: ac yn ol hynny, heu groft, a'r eil a'r trydyd. Ac nachaf
@@ -2248,7 +2248,7 @@
           yn
       - lb[type=edition,n=15]:
         - llwm. Ryuedu hynny yn uawr
-        - pb[type=manuscript]: 74
+        - pb[type=manuscript,n=74]
         - a wnaeth, a dyuot y
       - lb[type=edition,n=16]: edrych grofd arall; nachaf honno yn aeduet. "Dioer,"
       - lb[type=edition,n=17]: heb ef, "mi a uynhaf medi honn auory." A thrannoeth
@@ -2264,7 +2264,7 @@
       - lb[type=edition,n=26]: daw y dwyn hwnn, a mi a wybydaf beth yw." A
       - lb[type=edition,n=27]:
         - chymryt y arueu a wnaeth, a dechreu gwylat y grofd.
-        - pb[type=edition]: 60
+        - pb[type=edition,n=60]
       - lb[type=edition,n=1]: A menegi a wnaeth y Kicua hynny oll. "Ie," heb hi,
       - lb[type=edition,n=2]: "\"beth yssyd y'th uryt ti?\" \"Mi a wylaf y grofd heno,\""
       - lb[type=edition,n=3]: heb ef. E wylat y grofd yd aeth. Ac ual y byd am
@@ -2289,7 +2289,7 @@
         - note:
           - tyw,
           - foreign[lg=deu-Latn]: W.
-        - pb[type=manuscript]: 75
+        - pb[type=manuscript,n=75]
         - gantunt. Ac yna rwng dicter a llit, taraw
       - lb[type=edition,n=13]: ymplith y llygot a wnaeth. A mwy noc ar y gwydbet,
           neu
@@ -2310,7 +2310,7 @@
       - lb[type=edition,n=26]: idaw y'r grofd diwethaf yn y wyd. "Ac un ohonunt
       - lb[type=edition,n=27]:
         - oed amdrom, ac a deleis, ac yssyd yn y uanec, ac a grogaf
-        - pb[type=edition]: 61
+        - pb[type=edition,n=61]
       - lb[type=edition,n=1]: inheu auory. Ac ym kyffes y Duw, bei as caffwn oll,
           mi
       - lb[type=edition,n=2]: a'y crogwn." "Arglwyd," heb hi, "diryued oed hynny.
@@ -2325,7 +2325,7 @@
         - wy oll, onys
       - lb[type=edition,n=7]:
         - 'crogwn:'
-        - pb[type=manuscript]: 76
+        - pb[type=manuscript,n=76]
         - ac a geueis, mi a'e crogaf." "Ie, Arglwyd,"
       - lb[type=edition,n=8]: heb hi, "nit oes achaws y mi y uot yn borth y'r pryf
       - lb[type=edition,n=9]: hwnnw, namyn goglyt ansyberwyt y ti. A gwna ditheu
@@ -2350,13 +2350,13 @@
       - lb[type=edition,n=26]: dyn yma, onyt pedwar dyn diholedic, a thitheu yr awr
       - lb[type=edition,n=27]:
         - honn." "Ie, Arglwyd, mynet," heb ef, "drwy y wlat
-        - pb[type=edition]: 62
+        - pb[type=edition,n=62]
       - lb[type=edition,n=1]: honn yd wyf inheu yr awr honn, parth a'm gwlat uy hun.
       - lb[type=edition,n=2]: A pha ryw weith yd wyte yndaw, Arglwyd?" "Crogi
       - lb[type=edition,n=3]: lleidyr a geueis yn lledratta arnaf," heb ef. "Ba ryw
       - lb[type=edition,n=4]:
         - leidyr, Arglwyd?"
-        - pb[type=manuscript]: 77
+        - pb[type=manuscript,n=77]
         - heb ef. "Pryf a welaf i'th law di
       - lb[type=edition,n=5]: ual llygoden. A drwc y gueda y wr kyuurd a thidi
       - lb[type=edition,n=6]: ymodi pryf kyfryw a hwnnw. Gellwg e ymdeith ef."
@@ -2387,9 +2387,9 @@
       - lb[type=edition,n=27]: gwnaf i." "Guir yw, Arglwyd, nyt guerth arnaw ef
       - lb[type=edition,n=28]:
         - dim.
-        - pb[type=manuscript]: 78
+        - pb[type=manuscript,n=78]
         - Rac dy welet ti yn ymhalogi wrth y pryf
-        - pb[type=edition]: 63
+        - pb[type=edition,n=63]
       - lb[type=edition,n=1]: hwnnw, mi a rodaf it deir punt, a gollwng ef e ymdeith,"
       - lb[type=edition,n=2]: '"Na uynhaf, y rof a Duw," heb ynteu, "un guerth, namyn'
       - lb[type=edition,n=3]: yr hwnn a dyly, y grogi." "En llawen, Arglwyd, gwna
@@ -2418,7 +2418,7 @@
       - lb[type=edition,n=22]: yr hynny," heb ef, "mi a rodaf it a wely o uarch yn
           y
       - lb[type=edition,n=23]:
-        - pb[type=manuscript]: 79
+        - pb[type=manuscript,n=79]
         - maes hwnn, a seith swmer yssyd yma, ar y seith
       - lb[type=edition,n=24]: meirch y maent arnunt." "Na uynhaf, y rof a Duw,"
       - lb[type=edition,n=25]: heb ynteu. "Cany mynny hynny, gwna y guerth."
@@ -2426,7 +2426,7 @@
       - lb[type=edition,n=27]: a gehy hynny." "Na uynhaf, y rof a Duw." "Beth a
       - lb[type=edition,n=28]:
         - uynhy ditheu?" "Guaret yr hut a'r lledrith y ar seith
-        - pb[type=edition]: 64
+        - pb[type=edition,n=64]
       - lb[type=edition,n=1]: cantref Dyuet." "Ti a geffy hynny heuyt, a gellwng y
       - lb[type=edition,n=2]: llygoden." "Na ellyngaf, y rof a Duw," heb ef. "Gwybot
       - lb[type=edition,n=3]: a uynhaf pwy yw y llygoden." "Wy gwreic i yw hi, a
@@ -2448,7 +2448,7 @@
       - lb[type=edition,n=15]: dwy grofd. A'r tryded nos y doeth uy gwreic a gwraged
       - lb[type=edition,n=16]:
         - y llys attaf, y erchi im eu rithaw, ac y
-        - pb[type=manuscript]: 80
+        - pb[type=manuscript,n=80]
         - ritheis inheu.
       - lb[type=edition,n=17]: A beichawc oed hi. A phy na bei ueichawc hi, nis
       - lb[type=edition,n=18]: gordiwedut ti. A chanys bu, a'y dala hi, mi a rodaf
@@ -2467,7 +2467,7 @@
           a
       - lb[type=edition,n=28]:
         - geffy. A dioer, da y medreist," heb ef. "Bei na metrut
-        - pb[type=edition]: 65
+        - pb[type=edition,n=65]
       - lb[type=edition,n=1]: hynny," heb ef, "ef a doy am dy benn cwbyl o'r gouut."
       - lb[type=edition,n=2]: '"Ie," heb ynteu, "rac hynny y nodeis inheu." "A rytha'
       - lb[type=edition,n=3]: weithon wy gwreic im." "Na rydhaaf, y rof a Duw,
@@ -2488,7 +2488,7 @@
         - a welsei neb.
       - lb[type=edition,n=12]:
         - "\"Edrych i'th"
-        - pb[type=manuscript]: 81
+        - pb[type=manuscript,n=81]
         - gylch ar y wlat," heb ef, "a thi a
       - lb[type=edition,n=13]: wely yr holl anhedeu, a'r kyuanhed, ual y buant oreu."
       - lb[type=edition,n=14]: Ac yna kyuodi a oruc ynteu ac edrych. A phan edrych,
@@ -2505,7 +2505,7 @@
       - lb[type=edition,n=23]: hwnnw, Mabinogi Mynweir a Mynord. Ac yuelly
       - lb[type=edition,n=24]: y teruyna y geing honn yma o'r Mabinogy.
   - chapter[n=MUM]:
-    - pb[type=edition]: 67
+    - pb[type=edition,n=67]
     - head: Math uab Mathonwy
     - p:
       - lb[type=edition,n=1]: MATH uab Mathonwy oed arglwyd ar Wyned, a
@@ -2519,8 +2519,8 @@
       - lb[type=edition,n=9]: Pebin o Dol Pebin yn Aruon. A honno teccaf morwyn
       - lb[type=edition,n=10]: oed yn y hoes o'r a wydit yno. Ac ynteu yg Kaer Dathyl
       - lb[type=edition,n=11]:
-        - yn Aruon yd oed y wasta
-        - pb[type=manuscript,break=no]: trwyd.82
+        - yn Aruon yd oed y wasta\trwyd.
+        - pb[type=manuscript,n=82]
         - Ac ny allei gylchu y
       - lb[type=edition,n=12]: wlat, namyn Giluathwy uab Don, [a Gwydyon] uab Don,
       - lb[type=edition,n=13]:
@@ -2541,7 +2541,7 @@
       - lb[type=edition,n=21]: arnaw yn graf. "A was," heb ef, "pa derw ytti?" "Pa
       - lb[type=edition,n=22]:
         - ham?" heb ynteu. "Beth a wely di arnaf i?" "Gwelaf
-        - pb[type=edition]: 68
+        - pb[type=edition,n=68]
       - lb[type=edition,n=1]: arnat," heb ef, "colli dy bryt a'th liw, a pha deryw
           yti?"
       - lb[type=edition,n=2]: '"Arglwyd urawt," heb ef, "yr hynn a deryw ymi ny'
@@ -2557,7 +2557,7 @@
       - lb[type=edition,n=12]: a baraf," heb ef, "cany ellir heb hynny, dygyuori
       - lb[type=edition,n=13]:
         - Gwyned
-        - pb[type=manuscript]: 83
+        - pb[type=manuscript,n=83]
         - a Phowys a Deheubarth y geissaw y
       - lb[type=edition,n=14]: uorwyn; a byd lawen di, a mi a'y paraf yt."
       - lb[type=edition,n=15]: Ac ar hynny at Uath uab Mathonwy yd aethant
@@ -2577,7 +2577,7 @@
           y'
       - lb[type=edition,n=28]:
         - erchi y moch." "Ef a ry eill ych necau," heb ynteu.
-        - pb[type=edition]: 69
+        - pb[type=edition,n=69]
       - lb[type=edition,n=1]: '"Nit drwc uyn trawscwyd i, Arglwyd," heb ef. "Ny doaf'
       - lb[type=edition,n=2]: i heb y moch." "En llawen," heb ynteu, "kerda ragot."
       - lb[type=edition,n=3]: Ef a aeth, a Giluathwy, a deguyr gyt ac wynt, hyt
@@ -2593,7 +2593,7 @@
       - lb[type=edition,n=7]: Pryderi y gossodet Guydyon y nos honno. "Ie," heb y
       - lb[type=edition,n=8]:
         - Pryderi, "da yw
-        - pb[type=manuscript]: 84
+        - pb[type=manuscript,n=84]
         - genhym ni cahel kyuarwydyt gan
       - lb[type=edition,n=9]: rei o'r gwreinc racco." "Moes yw genhym ni, Arglwyd,"
       - lb[type=edition,n=10]: heb y Guydyon, "y nos gyntaf y delher at wr mawr,
@@ -2617,14 +2617,14 @@
       - lb[type=edition,n=25]: ynteu, "minheu a allaf dy rydhau ditheu o'r geireu
       - lb[type=edition,n=26]:
         - hynny. Sef ual y gallaf, na dyro im y moch heno, ac [na]
-        - pb[type=edition]: 70
+        - pb[type=edition,n=70]
       - lb[type=edition,n=1]: nacaha ui ohonunt. Auory minheu a dangossaf gyfnewit
       - lb[type=edition,n=2]: amdanunt wy."
       - lb[type=edition,n=3]: A'r nos honno yd aethont ef a'y gedymdeithon y'r
       - lb[type=edition,n=4]: lletty ar y kynghor. "A wyr," heb ef, "ny chawni y
       - lb[type=edition,n=5]:
         - moch oc eu herchi."
-        - pb[type=manuscript]: 85
+        - pb[type=manuscript,n=85]
         - '"Ie," heb wynte, "pa drawscwyd'
       - lb[type=edition,n=6]: y keir wynteu?" "Mi a baraf eu cael," heb y
       - lb[type=edition,n=7]: Guydyon. Ac yna yd aeth ef yn y geluydodeu, ac y
@@ -2653,9 +2653,9 @@
       - lb[type=edition,n=27]: Ac yna y kymeryssant wy ganheat, ac y dechreussant
       - lb[type=edition,n=28]:
         - gerdet a'r moch. "A geimeit," heb y Guydyon,
-        - pb[type=edition]: 71
+        - pb[type=edition,n=71]
       - lb[type=edition,n=1]:
-        - pb[type=manuscript]: 86
+        - pb[type=manuscript,n=86]
         - '"reit yw in gerdet yn bryssur. Ny phara yr hut'
       - lb[type=edition,n=2]: namyn o'r pryt pwy gilyd." A'r nos honno y kerdyssant
       - lb[type=edition,n=3]: hyt ygwarthaf Keredigyawn, y lle a elwir etwa o achaus
@@ -2681,7 +2681,7 @@
       - lb[type=edition,n=22]: ugeint. Ryued uu hwyret y kerdyssawchi." "Mae yr aniueileit
       - lb[type=edition,n=23]: yd aethawch yn eu hwysc?" heb y Math. "Maent
       - lb[type=edition,n=24]:
-        - pb[type=manuscript]: 87
+        - pb[type=manuscript,n=87]
         - guedy gwneuthur creu udunt yn y cantref arall
       - lb[type=edition,n=25]: issot," heb y Guydyon. Ar hynny, llyma y clywynt yr
       - lb[type=edition,n=26]: utkyrn a'r dygyuor yn y wlat. Ar hynny guiscaw a
@@ -2689,7 +2689,7 @@
       - lb[type=edition,n=28]: Aruon.
       - lb[type=edition,n=29]:
         - A'r nos honno yd ymhwelwys Gwydyon uab Don a
-        - pb[type=edition]: 72
+        - pb[type=edition,n=72]
       - lb[type=edition,n=1]:
         - Chiluathwy y urawt, kyt yg Kaer Dathyl. Ac yguely
         - note:
@@ -2718,7 +2718,7 @@
           - diueuessur,
           - foreign[lg=deu-Latn]: W.
         - y meint. Ac
-        - pb[type=manuscript]: 88
+        - pb[type=manuscript,n=88]
         - yna y kilyssant
       - lb[type=edition,n=18]: hyt y lle a elwir Dol Penmaen. Ac yna clymu a
       - lb[type=edition,n=19]: wnaethant, a cheissaw ymdangneuedu, a gwystlaw a
@@ -2731,7 +2731,7 @@
       - lb[type=edition,n=26]: gadu y ryngtaw ef a Guydyon uab Don, canys ef a
       - lb[type=edition,n=27]:
         - baryssei hynny. At Math uab Mathonwy y doeth y
-        - pb[type=edition]: 73
+        - pb[type=edition,n=73]
       - lb[type=edition,n=1]: genhat. "Ie," heb y Math, "e rof a Duw, os da
       - lb[type=edition,n=2]: gan Wydyon uab Don, mi a'e gadaf yn llawen. Ni chymellaf
       - lb[type=edition,n=3]: inheu ar neb uynet e ymlad, dros wneuthur ohanam
@@ -2748,7 +2748,7 @@
       - lb[type=edition,n=13]: my hun." E gwyr hynny a neilltuwyt, ac a dechreuwyt
       - lb[type=edition,n=14]:
         - gwiscaw amdanunt, ac
-        - pb[type=manuscript]: 89
+        - pb[type=manuscript,n=89]
         - ymlad a wnaethant. Ac o
       - lb[type=edition,n=15]: nerth grym ac angerd, a hut a lledrith, Guydyon a oruu,
       - lb[type=edition,n=16]: a Phryderi a las, ac y Maen Tyuyawc, uch y Uelen Ryd
@@ -2766,7 +2766,7 @@
       - lb[type=edition,n=27]: hwnnw, a'r gwystlon oed gyt ac ef, a ellyngwyt yn ol
       - lb[type=edition,n=28]:
         - guyr y Deheu.
-        - pb[type=edition]: 74
+        - pb[type=edition,n=74]
       - lb[type=edition,n=1]: Enteu Math a gyrchwys Caer Tathyl. Giluaethwy
       - lb[type=edition,n=2]: uab Don a'r teulu a uuassynt gyt ac ef, a gyrchyssant
           y
@@ -2780,7 +2780,7 @@
       - lb[type=edition,n=10]: bu yn y llys nys guypei. Sef a doeth, dy nyeint ueibon
       - lb[type=edition,n=11]:
         - dy chwaer,
-        - pb[type=manuscript]: 90
+        - pb[type=manuscript,n=90]
         - Arglwyd, Gwydyon uab Don a Giluaethwy
       - lb[type=edition,n=12]: uab Don. A threis arnaf a orugant a chywilyd
       - lb[type=edition,n=13]: y titheu, a chyscu a wnaethpwyt genhyf, a hynny i'th
@@ -2803,7 +2803,7 @@
       - lb[type=edition,n=28]: doethauch chwitheu y'm ewyllus inheu, mi a dechreuaf
       - lb[type=edition,n=29]:
         - boen arnawch."
-        - pb[type=edition]: 75
+        - pb[type=edition,n=75]
       - lb[type=edition,n=1]: Ac yna y kymerth e hutlath, ac y trewis Giluathwy
       - lb[type=edition,n=2]: yny uyd daran ewic; ac achub y llall a wnaeth yn
       - lb[type=edition,n=3]: gyflym, kyt mynhei dianc nys gallei, a'y taraw a'r un
@@ -2811,7 +2811,7 @@
       - lb[type=edition,n=5]: mi a wnaf ywch gerdet y gyt, a'ch bot yn
       - lb[type=edition,n=6]:
         - gymaredic, ac yn
-        - pb[type=manuscript]: 91
+        - pb[type=manuscript,n=91]
         - un anyan a'r gwyduilot yd ywch yn
       - lb[type=edition,n=7]: eu rith, ac yn yr amser y bo etiued udunt wy, y uot
       - lb[type=edition,n=8]: ywchwitheu. A blwydyn y hediw, dowch yma ataf i."
@@ -2843,11 +2843,11 @@
       - lb[type=edition,n=26]: Ym penn y ulwydyn, llyma y clywyn kyuarthua cwn
       - lb[type=edition,n=27]:
         - dan paret yr ystauell, a dygyuor y llys y am hynny am
-        - pb[type=edition]: 76
+        - pb[type=edition,n=76]
       - lb[type=edition,n=1]: eu penn. Ar hynny, kyuodi a oruc [ynteu] a mynet allan.
       - lb[type=edition,n=2]:
         - A phan daw
-        - pb[type=manuscript]: 92
+        - pb[type=manuscript,n=92]
         - allan, trillydyn a welei. Sef kyfryw
       - lb[type=edition,n=3]: lydnot a welei, baed coed, a charnen coet, a chrynllwdyn
       - lb[type=edition,n=4]: da y gyt ac wy. A breisc oed yn yr oet oed arnaw.
@@ -2878,9 +2878,9 @@
       - lb[type=edition,n=26]: gwnaethauch gam ymi, digawn y buawch ym poen, a
       - lb[type=edition,n=27]:
         - chywilyd mawr a gawssawch, bot
-        - pb[type=manuscript]: 93
+        - pb[type=manuscript,n=93]
         - plant o bob un o
-        - pb[type=edition]: 77
+        - pb[type=edition,n=77]
       - lb[type=edition,n=1]: honawch o'y gilid. Perwch enneint y'r gwyr, a golchi
       - lb[type=edition,n=2]: eu penneu, ac eu kyweiraw." A hynny a berit udunt.
       - lb[type=edition,n=3]:
@@ -2923,14 +2923,14 @@
       - lb[type=edition,n=23]: baraf, Dylan." Bedydyaw a wnaethpwyt y mab, ac y
       - lb[type=edition,n=24]:
         - gyt ac y bedydywyt, y mor a gyrchwys.
-        - pb[type=manuscript]: 94
+        - pb[type=manuscript,n=94]
         - Ac yn y lle,
       - lb[type=edition,n=25]: y gyt ac y doeth y'r mor, annyan y mor a gauas, a chystal
       - lb[type=edition,n=26]: y nouyei a'r pysc goreu yn y mor, ac o achaws hynny
           y
       - lb[type=edition,n=27]:
         - gelwit Dylan Eil Ton. Ny thorres tonn adanaw eiryoet.
-        - pb[type=edition]: 78
+        - pb[type=edition,n=78]
       - lb[type=edition,n=1]: A'r ergyt y doeth y angheu ohonaw, a uyrywys Gouannon
       - lb[type=edition,n=2]: y ewythyr. A hwnnw a uu trydyd anuat ergyt.
       - lb[type=edition,n=3]: Val yd oed Wydyon diwarnawt yn y wely, ac yn
@@ -2950,7 +2950,7 @@
       - lb[type=edition,n=17]: Yna y magwyt y mab yn y llys yny uu pedeirblwyd. A
       - lb[type=edition,n=18]:
         - hof oed y uab wyth
-        - pb[type=manuscript]: 95
+        - pb[type=manuscript,n=95]
         - mlwyd uot yn gynureisket
         - note:
           - aneglur.
@@ -2968,7 +2968,7 @@
       - lb[type=edition,n=26]: yn gyhyt a hynn?" "Ony byd arnat ti gywilyd uwy no
       - lb[type=edition,n=27]:
         - meithryn o honaf i uab kystal a hwnn, ys bychan a beth
-        - pb[type=edition]: 79
+        - pb[type=edition,n=79]
       - lb[type=edition,n=1]: uyd dy gywilyd di." "Pwy enw dy uab dy?" heb hi.
       - lb[type=edition,n=2]: '"Dioer," heb ef, "nit oes arnaw un enw etwa." "Ie,"'
       - lb[type=edition,n=3]: heb hi, "mi a dynghaf dyghet idaw, na chaffo enw yny
@@ -2985,7 +2985,7 @@
       - lb[type=edition,n=13]: Aber Menei. Ac yn y lle y guelas delysc a morwyal,
       - lb[type=edition,n=14]:
         - hudaw llong a wnaeth. Ac o'r guimon a'r
-        - pb[type=manuscript]: 96
+        - pb[type=manuscript,n=96]
         - delysc
       - lb[type=edition,n=15]: hudaw cordwal a wnaeth, a hynny llawer, ac eu brithaw
       - lb[type=edition,n=16]: a oruc hyt na welsei neb lledyr degach noc ef. Ac ar
@@ -3009,7 +3009,7 @@
       - lb[type=edition,n=26]: doethpwyt, a phan doethpwyt, yd oed ef yn brithaw
       - lb[type=edition,n=27]:
         - cordwal, a hynny yn eureit. Yna y doeth y kennadeu, a
-        - pb[type=edition]: 80
+        - pb[type=edition,n=80]
       - lb[type=edition,n=1]: menegi idi hi hynny. "Ie," heb hitheu, "dygwch
       - lb[type=edition,n=2]: uessur uyn troet, ac erchwch y'r cryd wneuthur esgidyeu
       - lb[type=edition,n=3]: im." Ynteu a lunywys yr esgidyeu, ac nit wrth y messur,
@@ -3025,7 +3025,7 @@
       - lb[type=edition,n=11]: idi yny welhwyf y throet." A hynny a dywetpwyt idi.
       - lb[type=edition,n=12]:
         - '"Ie," heb hi,'
-        - pb[type=manuscript]: 97
+        - pb[type=manuscript,n=97]
         - '"mi a af hyt attaw."'
       - lb[type=edition,n=13]: Ac yna y doeth hi hyt y llong. A phan doeth, yd
       - lb[type=edition,n=14]: oed ef yn llunyaw, a'r mab yn gwniaw. "Ie, Arglwydes,"
@@ -3047,7 +3047,7 @@
       - lb[type=edition,n=25]: Gyffes yw bellach."
       - lb[type=edition,n=26]:
         - Ac yna difflannu y gueith yn delysc ac yn wimon.
-        - pb[type=edition]: 81
+        - pb[type=edition,n=81]
       - lb[type=edition,n=1]: A'r gueith ny chanlynwys ef hwy no hynny. Ac o'r
       - lb[type=edition,n=2]: achaws hwnnw y gelwit ef yn drydyd eur gryd.
       - lb[type=edition,n=3]: '"Dioer," heb hitheu, "ni henbydy well di o uot yn'
@@ -3061,7 +3061,7 @@
       - lb[type=edition,n=10]: doethant wy parth a Dinas Dinllef. Ac yna meithryn
       - lb[type=edition,n=11]:
         - Llew Llaw Gyffes yny allwys marchogaeth pob
-        - pb[type=manuscript]: 98
+        - pb[type=manuscript,n=98]
       - lb[type=edition,n=12]: march, ac yny oed gwbyl o bryt, a thwf, a meint.
       - lb[type=edition,n=13]: Ac yna adnabot a wnaeth Gwydyon arnaw y uot yn
       - lb[type=edition,n=14]: kymryt dihirwch o eisseu meirch ac arueu, a'y alw attaw
@@ -3081,7 +3081,7 @@
       - lb[type=edition,n=27]: '"Graessaw Duw wrthunt. Gellwng y mywn wy," heb'
       - lb[type=edition,n=28]:
         - hi. Diruawr leuenyd a uu yn eu herbyn. Yr yneuad a
-        - pb[type=edition]: 82
+        - pb[type=edition,n=82]
       - lb[type=edition,n=1]: gyweirwyd ac y wwyta yd aethpwyt. Guedy daruot y
       - lb[type=edition,n=2]: bwyta, ymdidan a wnaeth hi a Guydyon am chwedleu
       - lb[type=edition,n=3]: a chyuarwydyt. Ynteu Wydyon kyuarwyd da oed.
@@ -3090,7 +3090,7 @@
       - lb[type=edition,n=6]: bylgeint Guydyon a gyuodes. Ac yna y gelwis ef y hut
       - lb[type=edition,n=7]:
         - a'y allu attaw.
-        - pb[type=manuscript]: 99
+        - pb[type=manuscript,n=99]
         - Erbyn pan oed dyd yn goleuliau, yd
       - lb[type=edition,n=8]: oed gyniweir ac utkyrn a lleuein yn y wlat yn gynghan.
       - lb[type=edition,n=9]: Pan ydoed y dyd yn dyuot, wynt a glywynt taraw drws
@@ -3116,11 +3116,11 @@
       - lb[type=edition,n=27]: '"Hynny a wnaf yn llawen." A guiscaw a wnaeth hi'
       - lb[type=edition,n=28]:
         - amdanaw ef yn llawen, ac yn gwbyl.
-        - pb[type=edition]: 83
+        - pb[type=edition,n=83]
       - lb[type=edition,n=1]: '"A derw," heb ef, "wiscaw amdan y gwryanc'
       - lb[type=edition,n=2]: hwnnw?" "Deryw," heb hi. "Neu deryw y minheu,"
       - lb[type=edition,n=3]:
-        - pb[type=manuscript]: 100
+        - pb[type=manuscript,n=100]
         - heb ef. "Diodwn yn arueu weithon; nit reit ynn
       - lb[type=edition,n=4]: wrthunt." "Och," heb hitheu, "paham? Llyna y
       - lb[type=edition,n=5]: llynghes yng kylch y ty." "A wreic, nit oes yna un
@@ -3157,11 +3157,11 @@
       - lb[type=edition,n=25]: yr un uorwyn deccaf a thelediwaf a welas dyn eiroet.
       - lb[type=edition,n=26]:
         - Ac y bedydyaw
-        - pb[type=manuscript]: 101
+        - pb[type=manuscript,n=101]
         - o'r bedyd a wneynt yna, a dodi
       - lb[type=edition,n=27]:
         - Blodeued arnei.
-        - pb[type=edition]: 84
+        - pb[type=edition,n=84]
       - lb[type=edition,n=1]: Gwedy y kyscu y gyt wy ar y wled, "Nyt hawd,"
       - lb[type=edition,n=2]:
         - heb y Guydyon, "y wr heb gyuoeth idaw ossymdeithaw."
@@ -3196,7 +3196,7 @@
       - lb[type=edition,n=21]: Ynteu a gerdwys yn ol yr hyd. Ac ar Auon Gynnwael
       - lb[type=edition,n=22]:
         - gordiwes yr hyd a'y lad. Ac wrth ulingyaw
-        - pb[type=manuscript]: 102
+        - pb[type=manuscript,n=102]
         - yr
       - lb[type=edition,n=23]: hyd, a llithyaw y gwn, ef a uu yny wascawd y nos arnaw.
       - lb[type=edition,n=24]: A phan ytoed y dyd yn atueilaw, a'r nos yn nessau,
@@ -3205,7 +3205,7 @@
       - lb[type=edition,n=26]: '"Dioer," heb hi, "ni a gawn yn goganu gan yr'
       - lb[type=edition,n=27]:
         - unben o'e adu y prytwn y wlat arall, onys guahodwn."
-        - pb[type=edition]: 85
+        - pb[type=edition,n=85]
       - lb[type=edition,n=1]: '"Dioer, Arglwydes," heb wy, "iawnhaf yw y wahawd."'
       - lb[type=edition,n=2]: Yna yd aeth kennadeu yn y erbyn y wahawd. Ac yna
       - lb[type=edition,n=3]: y kymerth ef [y] wahawd yn llawen, ac y doeth y'r llys,
@@ -3227,7 +3227,7 @@
       - lb[type=edition,n=17]: A thrannoeth, arouun a wnaeth ef e ymdeith.
       - lb[type=edition,n=18]:
         - '"Dioer," heb hi,'
-        - pb[type=manuscript]: 103
+        - pb[type=manuscript,n=103]
         - '"nyt ey y wrthyf i heno." E nos'
       - lb[type=edition,n=19]: honno y buant y gyt heuyt. A'r nos honno y bu yr
       - lb[type=edition,n=20]: ymgynghor ganthunt pa furu y kehynt uot yg kyt.
@@ -3240,7 +3240,7 @@
       - lb[type=edition,n=27]: perigyl dyuot yr unben bieu y llys adref." "Ie," heb
       - lb[type=edition,n=28]:
         - hi, "auory, mi a'th ganhadaf di e ymdeith."
-        - pb[type=edition]: 86
+        - pb[type=edition,n=86]
       - lb[type=edition,n=1]: Trannoeth, arouun a wnaeth ef, ac ny ludywys
       - lb[type=edition,n=2]: hitheu ef. "Ie," heb ynteu, "coffa a dywedeis wrthyt,
       - lb[type=edition,n=3]: ac ymdidan yn lut ac ef; a hynny yn rith ysmalawch
@@ -3258,7 +3258,7 @@
       - lb[type=edition,n=13]: elut yn gynt no miui." "Ie," heb ynteu, "Duw a dalho
       - lb[type=edition,n=14]:
         - it dy ymgeled. Ony'm
-        - pb[type=manuscript]: 104
+        - pb[type=manuscript,n=104]
         - llad i Duw hagen, nit hawd
       - lb[type=edition,n=15]: uy llad i," heb ef. "A wney ditheu yr Duw ac yrof inheu,
       - lb[type=edition,n=16]: menegi ymi ba furu y galler dy lad ditheu? Canys guell
@@ -3278,7 +3278,7 @@
       - lb[type=edition,n=27]: benn y gerwyn, a'y thoi yn da didos wedi hynny hyhitheu.
       - lb[type=edition,n=28]:
         - A dwyn bwch," heb ef, "a'y dodi gyr llaw y gerwyn, a
-        - pb[type=edition]: 87
+        - pb[type=edition,n=87]
       - lb[type=edition,n=1]:
         - dodi ohonof uinheu y neill troet ar geuyn y bwch, a'r
         - note:
@@ -3292,7 +3292,7 @@
       - lb[type=edition,n=7]: gueith y guayw, a'r un dyd ym penn y ulwydyn y bu
       - lb[type=edition,n=8]: barawt. A'r dyd hwnnw y peris ef idi hi guybot hynny.
       - lb[type=edition,n=9]:
-        - pb[type=manuscript]: 105
+        - pb[type=manuscript,n=105]
         - '"Arglwyd," heb hi, "yd wyf yn medylyaw pa delw'
       - lb[type=edition,n=10]:
         - y gallei uot yr
@@ -3324,7 +3324,7 @@
       - lb[type=edition,n=26]: dywedeisti uot bwch arnunt." "Ie," heb ynteu, "par
       - lb[type=edition,n=27]:
         - dala un ohonunt, a phar y dwyn yma." Ef a ducpwyt. Yna
-        - pb[type=edition]: 88
+        - pb[type=edition,n=88]
       - lb[type=edition,n=1]: y kyuodes ynteu o'r ennein a guiscaw y lawdyr amdanaw,
       - lb[type=edition,n=2]: ac y dodes y neilltroet ar emyl y gerwyn, a'r llall
           ar
@@ -3333,7 +3333,7 @@
       - lb[type=edition,n=5]: Brynn Kyuergyr, ac ar benn y neill glin y kyuodes, ac
       - lb[type=edition,n=6]: a'r guenwynwayw y uwrw, a'y uedru yn y ystlys, yny
       - lb[type=edition,n=7]:
-        - pb[type=manuscript]: 106
+        - pb[type=manuscript,n=106]
         - neita y paladyr ohonaw, a thrigyaw y penn yndaw.
       - lb[type=edition,n=8]: Ac yna bwrw ehetuan o honaw ynteu yn rith eryr, a dodi
       - lb[type=edition,n=9]: garymleis anhygar. Ac ny chahat y welet ef odyna y
@@ -3357,12 +3357,12 @@
       - lb[type=edition,n=27]: diwethaf y doeth y meichat. Gwr y ty a dywot wrth y
       - lb[type=edition,n=28]:
         - meichat, "A was," heb ef, "a doeth dy hwch di heno
-        - pb[type=edition]: 89
+        - pb[type=edition,n=89]
       - lb[type=edition,n=1]: y mywn?" "Doeth," heb ynteu, "yr awr honn y doeth
       - lb[type=edition,n=2]: at y moch." "Ba ryw gerdet," heb y Guydyon, "yssyd
       - lb[type=edition,n=3]:
-        - ar yr hwch honno?" "Ban a
-        - pb[type=manuscript,break=no]: gorer107
+        - ar yr hwch honno?" "Ban a\gorer
+        - pb[type=manuscript,n=107]
         - y creu beunyd
       - lb[type=edition,n=4]: yd a allan. Ny cheir craf arnei, ac ny wybydir ba ford
       - lb[type=edition,n=5]: yd a, mwy no chyn elei yn y daear." "A wney di," heb
@@ -3388,7 +3388,7 @@
       - lb[type=edition,n=24]: 'Lleu oed yr eryr, a chanu englyn: --'
       - lb[type=edition,n=25]:
         - '"Dar a dyf'
-        - pb[type=manuscript]: 108
+        - pb[type=manuscript,n=108]
         - y rwng deu lenn,
       - lb[type=edition,n=26]: Gorduwrych awyr a glenn.
       - lb[type=edition,n=27]: Ony dywedaf i eu,
@@ -3398,7 +3398,7 @@
           - Llew,
           - foreign[lg=deu-Latn]: W.
         - ban yw hynn."
-        - pb[type=edition]: 90
+        - pb[type=edition,n=90]
       - lb[type=edition,n=1]: Sef a wnaeth ynteu yr eryr, ymellwng yny oed yg
       - lb[type=edition,n=2]: kymerued y prenn. Sef a wnaeth ynteu Wydyon, canu
       - lb[type=edition,n=3]: 'englyn arall: --'
@@ -3441,12 +3441,12 @@
       - lb[type=edition,n=25]: caffwyf iawn."
       - lb[type=edition,n=26]:
         - Yna dygyuoryaw
-        - pb[type=manuscript]: 109
+        - pb[type=manuscript,n=109]
         - Gwyned a wnaethant, a
       - lb[type=edition,n=27]: chyrchu Ardudwy. Gwydyon a gerdwys yn y blaen, a
       - lb[type=edition,n=28]:
         - chyrchu Mur Castell a oruc. Sef a wnaeth Blodeuwed,
-        - pb[type=edition]: 91
+        - pb[type=edition,n=91]
       - lb[type=edition,n=1]: clybot eu bot yn dyuot, kymryt y morynyon gyt a hi,
           a
       - lb[type=edition,n=2]: chyrchu y mynyd; a thrwy Auon Gynuael kyrchu llys a
@@ -3477,7 +3477,7 @@
         - a wnaeth. Sef kennadwri a anuones,
       - lb[type=edition,n=20]:
         - gouyn a wnaeth y Lew Llaw Gyffes, a uynnei
-        - pb[type=manuscript]: 110
+        - pb[type=manuscript,n=110]
         - ae tir
       - lb[type=edition,n=21]: ae dayar, ae eur, ae aryant, am y sarhaet. "Na
       - lb[type=edition,n=22]: chymeraf, y Duw dygaf uyg kyffes," heb ef. "A llyma
@@ -3488,7 +3488,7 @@
       - lb[type=edition,n=26]: A hynny leiaf peth a gymeraf y gantaw."
       - lb[type=edition,n=27]:
         - Hynny a uenegit y Gronw Bebyr. "Ie," heb ynteu,
-        - pb[type=edition]: 92
+        - pb[type=edition,n=92]
       - lb[type=edition,n=1]: "\"dir yw ymi gwneuthur hynny. Wy gwyrda kywir, a'm"
       - lb[type=edition,n=2]: teulu, a'm brodyr maeth, a oes ohonawch chwi, a gymero
       - lb[type=edition,n=3]: yr ergyt drossof i?" "Nac oes, dioer," heb wynt. Ac
@@ -3516,7 +3516,7 @@
       - lb[type=edition,n=16]: hynny." "Ie," heb ef, "Duw a dalho it." Ac yna y
       - lb[type=edition,n=17]:
         - kymerth Gronwy y llech ac y dodes
-        - pb[type=manuscript]: 111
+        - pb[type=manuscript,n=111]
         - y ryngtaw a'r
       - lb[type=edition,n=18]: ergyt. Ac yna y byryawd Llew ef a'r par, ac y guant
       - lb[type=edition,n=19]: y llech drwydi, ac ynteu drwydaw, yny dyrr y geuynn.
@@ -3529,4 +3529,4 @@
       - lb[type=edition,n=26]: Wyned.
       - lb[type=edition,n=27]:
         - Ac yuelly y teruyna y geing honn o'r Mabinogi.
-        - pb[type=manuscript]:
+        - pb[type=manuscript]
