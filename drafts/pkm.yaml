@@ -540,8 +540,9 @@
       - lb[type=edition,n=17]:
         - heb hi, "Guawl uab Clut, gwr tormyn-
         - pb[type=manuscript,n=21,break=no]
+      - lb[type=edition,n=18,break=no]:
         - nawc,
-      - lb[type=edition,n=18]: kyuoethawc. A chan derw yt dywedut y geir a dywedeist,
+        - kyuoethawc. A chan derw yt dywedut y geir a dywedeist,
       - lb[type=edition,n=19]: dyro ui idaw rac anglot yt." "Arglwydes," heb ef, "ny
       - lb[type=edition,n=20]: wnn i pa ryw attep yw hwnnw. Ny allaf ui arnaf a
       - lb[type=edition,n=21]: dywedy di uyth." "Dyro di ui idaw ef," heb hi, "a mi
@@ -2000,8 +2001,9 @@
       - lb[type=edition,n=22]:
         - wy. Kyflym oed y gueith wynteu, a diuessur a w-
         - pb[type=manuscript,n=67,break=no]
+      - lb[type=edition,n=23,break=no]:
         - neynt
-      - lb[type=edition,n=23]: ac yuelly y buant yny dygywys yw kytdrefwyr racdunt,
+        - ac yuelly y buant yny dygywys yw kytdrefwyr racdunt,
       - lb[type=edition,n=24]: ac yny duunyssant ar geissaw eu llad. Rybud a doeth
       - lb[type=edition,n=25]: udunt wynteu; a chlybot bot y gwyr ac y bryt ar eu
       - lb[type=edition,n=26]: dienydyaw.
