@@ -2183,7 +2183,7 @@
         - note:
           - ehouyndra,
           - foreign[lg=deu-Latn]: W,
-          - foreign[lg=cym-Latn-x-modern-welsh]: '- yna newidiwyd i -der.'
+          - foreign[lg=cym-Latn]: '- yna newidiwyd i -der.'
         - o'r uorwyn o achaws hynny.
       - lb[type=edition,n=28]:
         - '"Ie, eneit," heb y Manawydan, "nyt kyfle yni'
@@ -2283,7 +2283,7 @@
         - note:
           - dywysse,
           - foreign[lg=deu-Latn]: W.
-          - foreign[lg=cym-Latn-x-modern-welsh]: Yr ymyl wedi torri.
+          - foreign[lg=cym-Latn]: Yr ymyl wedi torri.
         - ac yn guan a'r tywys e ymdeith, ac yn adaw
       - lb[type=edition,n=10]: y calaf yno. Ac ni wydyat ef uot un keleuyn yno ny
           bei
