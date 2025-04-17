@@ -1,5 +1,5 @@
 # Celtic
-[![TEI validation](https://github.com/TITUS-2-0/celtic/actions/workflows/validate.yaml/badge.svg?branch=main)](https://github.com/TITUS-2-0/celtic/actions/workflows/validate.yaml)
+[![TEI validation](https://github.com/TITUS-2-0/celtic/actions/workflows/validate_data.yaml/badge.svg?branch=main)](https://github.com/TITUS-2-0/celtic/actions/workflows/validate_data.yaml)
 ## Datasets
 | id    | language                       | titus                                                                                                   | metadata                                                                     | issue                                                   | status         |
 |:------|:-------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|:--------------------------------------------------------|:---------------|
