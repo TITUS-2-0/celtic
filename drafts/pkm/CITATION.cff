@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: The Mabinogion
+version: unreleased
+contributors:
+- name: Elena Parina
+  roles:
+  - digitization
+- name: Jost Gippert
+  roles:
+  - TITUS version
+- name: Florian Matter
+  roles:
+  - TEI version
+date-released: 2025-01-15
+message: 'Derived from: Williams, Ifor. n.d.. Pedeir Keinc Y Mabinogi. 2th ed. Caerdydd:
+  Gwasg Prifysgol Cymru.'
+preferred-citation: 'Digital version of The Mabinogion (unreleased). 2025-01-15. By:
+  Jost Gippert, Florian Matter, Elena Parina. In: Carling, Gerd & Jost Gippert (2025).
+  TITUS 2.0. Frankfurt: Goethe University.'
