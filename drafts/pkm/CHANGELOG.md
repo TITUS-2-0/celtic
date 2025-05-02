@@ -23,3 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - working footnotes (2025-02-06)
 - p-wrapping (2025-01-16)
 - initial creation (2025-01-15)
+
+### Fixed
+- und-Latn-x-general (2025-05-02)

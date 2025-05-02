@@ -73,9 +73,9 @@ text:
         - di?" "Llyma wyd
         - note:
           - wyd,
-          - foreign[lg=deu-Latn]: W.,
+          - foreign[lg=und-Latn-x-general]: W.,
           - yr wed,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
         - y kyffy," heb ynteu. "Gwr yssyd
         - pb[main=yes,type=edition,n=3]
       - lb[type=edition,n=1]: gyferbyn y gyuoeth a'm kyuoeth inheu yn ryuelu arnaf
@@ -320,7 +320,7 @@ text:
         - eisted." Eisted a wnaeth
         - note:
           - wnath,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - ar yr orssed. Ac wal y
       - lb[type=edition,n=12]: bydynt yn eisted, wynt a welynt gwreic ar uarch canwelw
       - lb[type=edition,n=13]: mawr aruchel, a gwisc eureit, llathreit, o bali amdanei,
@@ -338,7 +338,7 @@ text:
         - pedestric. A fei mwyaf
         - note:
           - mwyf,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - uei y urys ef, pellaf uydei hitheu
       - lb[type=edition,n=23]:
         - e wrthaw ef. A phan welas
@@ -397,9 +397,9 @@ text:
         - oruc wrth auwyneu; nyt oed nes idi yna no chyt
         - note:
           - chynt,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
           - chyn,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
         - bei ar
       - lb[type=edition,n=4]: y gam; a phei wyaf y lladei ef y uarch, pellaf uydei
       - lb[type=edition,n=5]: 'hitheu e wrthaw ef: y cherdet hitheu nit oed uwy no'
@@ -408,13 +408,13 @@ text:
         - a wnaeth
         - note:
           - wnaet,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - a dyuot yn yd oet Pwyll. "Arglwyd," heb
       - lb[type=edition,n=8]:
         - ef, "nyt oes
         - note:
           - ef nyt oes,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
         - allu gan y march amgen noc a weleisti."
       - lb[type=edition,n=9]: '"Mi a weleis," heb ynteu, "ny thykya y neb y herlit
           hi.'
@@ -473,7 +473,7 @@ text:
         - heb y Pwyll,
         - note:
           - Pwll,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - '"y neges oreu gennyf i dy dyuot ti idi. Ac'
       - lb[type=edition,n=22]: a dywedy di ymi pwy wyt?" "Dywedaf, Arglwyd,"
       - lb[type=edition,n=23]: heb hi. "Riannon, uerch Heueyd Hen, wyf i, a'm rodi
@@ -639,7 +639,7 @@ text:
         - hynny,
         - note:
           - yny,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - llyma y teulu am penn y llys, ac yna kymryt
       - lb[type=edition,n=3]: pawb o'r niuer a doeth y gyt a Guawl, a'y dodi yn y
       - lb[type=edition,n=4]: carchar e hun. A bwrw y bratteu a'r loppaneu a'r
@@ -662,13 +662,13 @@ text:
         - heb Eueyd
         - note:
           - Euey,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - Hen, "guir a dyweit.
       - lb[type=edition,n=18]:
         - Iawn yw yt y warandaw; nyt dihenyt arnaw hynny."
         - note:
           - hyny,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
       - lb[type=edition,n=19]: '"Ie," heb y Pwyll, "mi a wnaf dy gynghor di amdanaw'
       - lb[type=edition,n=20]: ef." "Llyna dy gynghor di," heb Riannon yna. "Yd
       - lb[type=edition,n=21]: wyt yn y lle y perthyn arnat llonydu eircheit a cherdoryon.
@@ -941,7 +941,7 @@ text:
         - mab ganthunt,
         - note:
           - ganthaw,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - a gadu poen kymmeint ac a oed, ar
       - lb[type=edition,n=25]: wreicda kystal a Riannon o'r achaws hwnnw, a'r mab
           yn
@@ -951,7 +951,7 @@ text:
         - mab y Pwyll. "A thripheth,
         - note:
           - thriphet,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - Arglwyd," heb hi, "a
         - pb[main=yes,type=edition,n=25]
       - lb[type=edition,n=1]: gaffwn o hynny, diolwch ac elwissen o ellwg Riannon
@@ -987,7 +987,7 @@ text:
         - Pwyll a Riannon, a deu gedymdeith Teirnon uch llaw
         - note:
           - uchlaw,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
       - lb[type=edition,n=25]: Pwyll a'r mab y ryngthunt. Guedy daruot bwyta, ar
       - lb[type=edition,n=26]: dechreu kyuedach, ymdidan a wnaethon. Sef ymdidan
       - lb[type=edition,n=27]:
@@ -1256,7 +1256,7 @@ text:
         - yr
         - note:
           - yn,
-          - foreign[lg=deu-Latn]: W. R.
+          - foreign[lg=und-Latn-x-general]: W. R.
         - ymdidan, ac yn drist, a gaei gan Uatholwch, a'y
       - lb[type=edition,n=11]: lywenyt yn wastat kyn no hynny. A medylyaw a
       - lb[type=edition,n=12]: wnaeth, bot yn athrist gan yr unben uychanet a gawssei
@@ -1297,7 +1297,7 @@ text:
         - yn Iwerdon, dydgueith, ar benn gorssed
         - note:
           - gossed,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - uch penn llyn oed
       - lb[type=edition,n=13]: yn Iwerdon, a Llyn y Peir y gelwit. A mi a welwn gwr
       - lb[type=edition,n=14]: melyngoch, mawr, yn dyuot o'r llyn, a pheir ar y geuyn.
@@ -1316,7 +1316,7 @@ text:
         - hwnnw, ar benn y pethewnos a'r mis,
         - note:
           - mi,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - y byd gwr ymlad
       - lb[type=edition,n=23]: llawn aruawc.' Y kymereis inheu wyntwy arnaf, yu
       - lb[type=edition,n=24]: 'gossymdeithaw: y buant ulwydyn gyt a mi. Yn y'
@@ -1326,7 +1326,7 @@ text:
         - guarauunwyt im. A chyn penn y pedwyryd [mis]
         - note:
           - mis,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
         - wynt
       - lb[type=edition,n=27]:
         - eu hun yn peri eu hatcassu, ac anghynwys yn y wlat, yn
@@ -1418,7 +1418,7 @@ text:
         - ac
         - note:
           - na,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - na at trachefyn, rac gwybot hynn." Ac ar hynny y
       - lb[type=edition,n=6]: diskynyssant.
       - lb[type=edition,n=7]: Blwynyded nit llei no their, y buant yuelly. Ac yn
@@ -1465,7 +1465,7 @@ text:
         - kerdwys ef ac a oed o gerd
         - note:
           - o gerd,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
         - arwest ar y geuyn e hun, a
       - lb[type=edition,n=14]: chyrchu tir Iwerdon.
       - lb[type=edition,n=15]: A meicheit Matholwch a oedynt ar lan y weilgi
@@ -1484,7 +1484,7 @@ text:
         - prenn." "Llyna beth eres," heb ef. "A welewch chwi
         - note:
           - wchi,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - dim
       - lb[type=edition,n=23]: namyn hynny?" "Gwelem, Arglwyd," heb wy, "mynyd
       - lb[type=edition,n=24]:
@@ -1593,7 +1593,7 @@ text:
         - yn ymanodi yn y ureichell
         - note:
           - breithell,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
         - drwy yr ascwrn. Ac adaw
       - lb[type=edition,n=22]: hwnnw, a dodi y law ar un arall a gouyn, "Beth yssyd
       - lb[type=edition,n=23]: yma?" "Blawt," medei y Gwydel. Sef a wnai ynteu
@@ -1637,7 +1637,7 @@ text:
         - Uranwen y mab yn boeth yn y tan, hi a gynsynwys
         - note:
           - gyngytywys,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
       - lb[type=edition,n=28]:
         - uwrw neit yn y tan, o'r lle yd oed yn eisted rwng y deu
         - pb[main=yes,type=edition,n=44]
@@ -1692,7 +1692,7 @@ text:
         - Ac yny agoroch y drws parth ac Aber Henuelen
         - note:
           - Henueleu,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - ', y tu'
       - lb[type=edition,n=8]: ar Gernyw, y gellwch uot yno a'r penn yn dilwgyr
       - lb[type=edition,n=9]: genhwch. Ac o'r pan agoroch y drws hwnnw, ny ellwch
@@ -1708,7 +1708,7 @@ text:
         - ynys
         - note:
           - ys da dwy ynys,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
         - a diffeithwyt o'm achaws i." A dodi ucheneit
       - lb[type=edition,n=19]: uawr, a thorri y chalon ar hynny. A gwneuthur bed
       - lb[type=edition,n=20]: petrual idi, a'e chladu yno yglan Alaw.
@@ -1782,7 +1782,7 @@ text:
         - edrych ar Gernyw, ac ar Aber Henuelen
         - note:
           - Henueleu,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - . A phan
       - lb[type=edition,n=14]: edrychwys, yd oed yn gyn hyspysset ganthunt y gyniuer
       - lb[type=edition,n=15]: collet a gollyssynt eiryoet, a'r gyniuer car a chedymdeith
@@ -1793,7 +1793,7 @@ text:
         - namyn kyrchi
         - note:
           - kychu,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - a'r penn parth a Llundein. Pa hyt
       - lb[type=edition,n=20]: bynnac y bydynt ar y ford, wynt a doethant hyt yn
       - lb[type=edition,n=21]: Llundein, ac a gladyssant y penn yn y Gwynuryn.
@@ -1828,9 +1828,9 @@ text:
         - seith mlyned; ac am Ganyat Adar Riannon, ac am
         - note:
           - ar,
-          - foreign[lg=deu-Latn]: W,
+          - foreign[lg=und-Latn-x-general]: W,
           - ac,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
       - lb[type=edition,n=18]: Yspydaut Benn pedwarugeint mlyned.
   - chapter[n=MUL]:
     - pb[main=yes,type=edition,n=49]
@@ -1940,7 +1940,7 @@ text:
         - wac, diffeith, anghyuanhed, heb dyn, heb uil yndunt
         - note:
           - yndi,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
       - lb[type=edition,n=2]:
         - eu kedyrndeithon e hun
         - pb[type=manuscript,n=65]
@@ -2013,7 +2013,7 @@ text:
         - yn mynnu yn diuetha." "Ny chymerwn ninhei
         - note:
           - inheu,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - y gan y
         - pb[main=yes,type=edition,n=54]
       - lb[type=edition,n=1]: tayogeu hynny. Awn adanunt a lladwn." "Nac ef,"
@@ -2050,7 +2050,7 @@ text:
         - ninheu
         - note:
           - inheu,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - hynny gan y tayogeu lladron," heb y Pryderi,
       - lb[type=edition,n=27]:
         - '"namyn eu llad oll?" "Nac ef," heb y Manawydan, "nyt'
@@ -2113,7 +2113,7 @@ text:
         - cadwyn, a hynny] uchbenn llech o uaen marmor, a'r cadwyneu
         - note:
           - a chadwyneu,
-          - foreign[lg=deu-Latn]: W, R.
+          - foreign[lg=und-Latn-x-general]: W, R.
       - lb[type=edition,n=13]: yn kyrchu yr awyr; a diben ny welei arnunt.
       - lb[type=edition,n=14]: Gorawenu a wnaeth ynteu wrth decket yr eur, a dahet
       - lb[type=edition,n=15]: gueith y cawc; a dyuot a wnaeth yn yd oed y cawc, ac
@@ -2124,7 +2124,7 @@ text:
         - seuyll arnei, a dwyn y lyueryd
         - note:
           - lywenyd,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - y gantaw hyt na allei
       - lb[type=edition,n=19]: dywedut un geir. A seuyll a wnaeth yuelly.
       - lb[type=edition,n=20]: A'e aros ynteu a wnaeth Manawydan hyt parth a
@@ -2177,13 +2177,13 @@ text:
         - dalho it; hynny a debywn i." Ac yna kymryt
         - note:
           - kymry,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - llywenyd
       - lb[type=edition,n=27]:
         - ac ehouyndra
         - note:
           - ehouyndra,
-          - foreign[lg=deu-Latn]: W,
+          - foreign[lg=und-Latn-x-general]: W,
           - foreign[lg=cym-Latn]: '- yna newidiwyd i -der.'
         - o'r uorwyn o achaws hynny.
       - lb[type=edition,n=28]:
@@ -2208,11 +2208,11 @@ text:
         - A blwydyn
         - note:
           - blwyn,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - yuelly a dreulwys yno, ynyd
         - note:
           - yny,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
         - oed y
       - lb[type=edition,n=17]: crydyon yn dala kynuigen a chynghoruyn wrthaw, ac yny
       - lb[type=edition,n=18]:
@@ -2247,7 +2247,7 @@ text:
         - toni pob un yn y doi y
         - note:
           - yny,
-          - foreign[lg=deu-Latn]: W, R.
+          - foreign[lg=und-Latn-x-general]: W, R.
         - dywyssen o'r keleuyn, a mynet
       - lb[type=edition,n=14]: e ymdeith a'r tewys yn hollawl, ac adaw y calaf yno
           yn
@@ -2283,7 +2283,7 @@ text:
         - dywyssen
         - note:
           - dywysse,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
           - foreign[lg=cym-Latn]: Yr ymyl wedi torri.
         - ac yn guan a'r tywys e ymdeith, ac yn adaw
       - lb[type=edition,n=10]: y calaf yno. Ac ni wydyat ef uot un keleuyn yno ny
@@ -2293,7 +2293,7 @@ text:
         - tywys
         - note:
           - tyw,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - pb[type=manuscript,n=75]
         - gantunt. Ac yna rwng dicter a llit, taraw
       - lb[type=edition,n=13]: ymplith y llygot a wnaeth. A mwy noc ar y gwydbet,
@@ -2326,7 +2326,7 @@ text:
         - '"Meuyl ymi," heb ef, "bei as caffwnn i'
         - note:
           - caffwn ni,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - wy oll, onys
       - lb[type=edition,n=7]:
         - 'crogwn:'
@@ -2489,7 +2489,7 @@ text:
         - ac y datrithwys hi yn wreigyang deccaf
         - note:
           - geccaf,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - a welsei neb.
       - lb[type=edition,n=12]:
         - "\"Edrych i'th"
@@ -2532,9 +2532,9 @@ text:
         - y nyeint
         - note:
           - Ac Eueyd uab Don y nyeint,
-          - foreign[lg=deu-Latn]: R,
+          - foreign[lg=und-Latn-x-general]: R,
           - o a euyd uab Don o nyeint,
-          - foreign[lg=deu-Latn]: W
+          - foreign[lg=und-Latn-x-general]: W
         - ueibon y chwaer, a'r teulu gyt ac wy [a aei] y
       - lb[type=edition,n=14]: gylchu y wlat drostaw.
       - lb[type=edition,n=15]: A'r uorwyn oed gyt a Math yn wastat; ac ynteu
@@ -2590,7 +2590,7 @@ text:
         - yg Keredigyawn
         - note:
           - ygheredigyawn,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - ', yn y lle a elwir Rudlan Teiui yr'
       - lb[type=edition,n=5]: awrhon; yd oed llys yno y Pryderi; ac yn rith beird
           y
@@ -2699,7 +2699,7 @@ text:
         - Chiluathwy y urawt, kyt yg Kaer Dathyl. Ac yguely
         - note:
           - Y guelei uath
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
       - lb[type=edition,n=2]: Math uab Mathonwy dodi Giluathwy a Goewyn uerch
       - lb[type=edition,n=3]: Pebin y gyscu y gyt, a chymell y morynyon allan yn
       - lb[type=edition,n=4]: amharchus, a chyscu genti o'y hanuod y nos honno.
@@ -2721,7 +2721,7 @@ text:
         - y bu yr ayrua diuessur
         - note:
           - diueuessur,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - y meint. Ac
         - pb[type=manuscript,n=88]
         - yna y kilyssant
@@ -2831,7 +2831,7 @@ text:
         - guelei y trillydyn; sef trillydyn oedynt,
         - note:
           - eodynt,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - carw, ac ewic,
       - lb[type=edition,n=16]: ac elein cryf. Sef a wnaeth, dyrchauael e hutlath.
           "Yr
@@ -2892,7 +2892,7 @@ text:
         - A guedy ymgueiraw ohonunt,
         - note:
           - ohonut,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - attaw ef y kyrchyssant.
       - lb[type=edition,n=4]: '"A wyr," heb ef, "tangneued a gawsawch, a'
       - lb[type=edition,n=5]: cherennyd a geffwch. A rodwch im kynghor pa
@@ -2905,7 +2905,7 @@ text:
         - '"Ny wnn i'
         - note:
           - m,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - amgen no'm bot." Yna y kymerth ynteu yr
       - lb[type=edition,n=12]: hutlath a'y chamu. "Camha di dros honn," heb ef, "ac
       - lb[type=edition,n=13]: ot wyt uorwyn, mi a ednebydaf." Yna y camawd hitheu
@@ -2922,7 +2922,7 @@ text:
         - '"Ie," heb [Math uab]'
         - note:
           - mab,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - Mathonwy, "mi a baraf
       - lb[type=edition,n=22]: uedydyaw hwn," wrth y mab brasuelyn. "Sef enw a
       - lb[type=edition,n=23]: baraf, Dylan." Bedydyaw a wnaethpwyt y mab, ac y
@@ -3003,7 +3003,7 @@ text:
         - Pan wybu ynteu y arganuot o'r gaer, dwyn
         - note:
           - dwy,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - eu
       - lb[type=edition,n=22]: heilyw e hun a oruc, a dodi eilyw arall arnunt, ual
           nat
@@ -3039,7 +3039,7 @@ text:
         - yw genhyf na uedrut kymedroli [ar wneuthur]
         - note:
           - ar wneuthur,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
         - esgidyeu
       - lb[type=edition,n=17]: wrth uessur." "Na uedreis," heb ynteu. "Mi a'y
       - lb[type=edition,n=18]: medraf weithon."
@@ -3153,7 +3153,7 @@ text:
         - Math, "keisswn ninheu
         - note:
           - inheu,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - ", ui a thi, oc an hut a'n lledrith,"
       - lb[type=edition,n=21]: hudaw gwreic idaw ynteu o'r blodeu." Ynteu yna a meint
       - lb[type=edition,n=22]: gwr yndaw ac yn delediwhaf guas a welas dyn eiroet.
@@ -3172,7 +3172,7 @@ text:
         - heb y Guydyon, "y wr heb gyuoeth idaw ossymdeithaw."
         - note:
           - ossymdeithawc,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
       - lb[type=edition,n=3]: '"Ie," heb y Math, "mi a rodaf idaw yr un'
       - lb[type=edition,n=4]: cantref goreu y was ieuanc y gael." "Arglwyd," heb ef,
       - lb[type=edition,n=5]: '"pa gantref yw hwnnw?" "Cantref Dinodig," heb ef.'
@@ -3190,7 +3190,7 @@ text:
         - hi.
         - note:
           - wnaet hi,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - A hi a glywei lef corn, ac yn ol llef y corn llyma
       - lb[type=edition,n=15]: hyd blin yn mynet heibaw, a chwn a chynydyon yn y ol.
       - lb[type=edition,n=16]: Ac yn ol y cwn a'r kynydyon, bagat o wyr ar traet
@@ -3288,7 +3288,7 @@ text:
         - dodi ohonof uinheu y neill troet ar geuyn y bwch, a'r
         - note:
           - a,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
       - lb[type=edition,n=2]: llall ar emyl y gerwyn. Pwy bynnac a'm metrei i yuelly,
       - lb[type=edition,n=3]: ef a wnay uy angheu." "Ie," heb hitheu, "diolchaf y
       - lb[type=edition,n=4]: Duw hynny. Ef a ellir rac hynny dianc yn hawd."
@@ -3303,7 +3303,7 @@ text:
         - y gallei uot yr
         - note:
           - yn,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - hynn a dywedeisti gynt wrthyf i. Ac a
       - lb[type=edition,n=11]: dangossy di ymi pa furu y sauut ti ar emyl y gerwyn
           a'r
@@ -3316,7 +3316,7 @@ text:
         - gauas o auyr yn y cantref a'y dwyn o'r parth draw y'r
         - note:
           - y,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
       - lb[type=edition,n=18]: auon, gyuarwyneb a Bryn Kyuergyr,
       - lb[type=edition,n=19]: A thrannoeth hi a dywot, "Arglwyd," heb hi, "mi
       - lb[type=edition,n=20]: a bereis kyweiraw y glwyt, a'r ennein, ac y maent yn
@@ -3401,7 +3401,7 @@ text:
         - O ulodeu Lleu
         - note:
           - Llew,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - ban yw hynn."
         - pb[main=yes,type=edition,n=90]
       - lb[type=edition,n=1]: Sef a wnaeth ynteu yr eryr, ymellwng yny oed yg
@@ -3412,14 +3412,14 @@ text:
         - Nis gwlych glaw, mwy
         - note:
           - nis mwy,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - tawd nawes.
       - lb[type=edition,n=6]: Ugein angerd a borthes.
       - lb[type=edition,n=7]:
         - Yn y blaen, Lleu
         - note:
           - Llew,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - Llaw Gyffes."
       - lb[type=edition,n=8]: Ac yna ymellwng idaw ynteu, yny uyd yn y geing issaf
       - lb[type=edition,n=9]: "o'r pren. Canu englyn idaw ynteu yna: --"
@@ -3428,7 +3428,7 @@ text:
         - Mirein modur
         - note:
           - medur,
-          - foreign[lg=deu-Latn]: W.
+          - foreign[lg=und-Latn-x-general]: W.
         - ymywet.
       - lb[type=edition,n=12]: Ony dywedaf i [eu]
       - lb[type=edition,n=13]: Ef dydau Lleu * y'm arfet."
@@ -3476,9 +3476,9 @@ text:
         - ymgynnatau
         - note:
           - yngynnatau,
-          - foreign[lg=deu-Latn]: W.,
+          - foreign[lg=und-Latn-x-general]: W.,
           - ymgennattau,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
         - a wnaeth. Sef kennadwri a anuones,
       - lb[type=edition,n=20]:
         - gouyn a wnaeth y Lew Llaw Gyffes, a uynnei
@@ -3506,9 +3506,9 @@ text:
         - seui
         - note:
           - seui,
-          - foreign[lg=deu-Latn]: W.,
+          - foreign[lg=und-Latn-x-general]: W.,
           - seuis,
-          - foreign[lg=deu-Latn]: R.
+          - foreign[lg=und-Latn-x-general]: R.
         - Gronwy Bebyr, yn y lle yd oed Llew Llaw Gyffes
       - lb[type=edition,n=10]: ban y byryawd ef, a Llew yn y lle yd oed ynteu. Ac
           yna
