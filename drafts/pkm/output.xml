@@ -38,9 +38,9 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="wlm-Latn">Middle Welsh</language>
-				<language ident="und-Latn-x-general">General</language>
-				<language ident="cym-Latn">Welsh</language>
+				<language ident="wlm-Latn" ana="primary">Middle Welsh</language>
+				<language ident="cym-Latn" ana="secondary">Welsh</language>
+				<language ident="und-Latn-x-general" ana="meta">General</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
