@@ -3431,7 +3431,12 @@ text:
           - foreign[lg=und-Latn-x-general]: W.
         - ymywet.
       - lb[type=edition,n=12]: Ony dywedaf i [eu]
-      - lb[type=edition,n=13]: Ef dydau Lleu * y'm arfet."
+      - lb[type=edition,n=13]:
+        - Ef dydau Lleu
+        - note:
+          - Llew,
+          - foreign[lg=und-Latn-x-general]: W.
+        - y'm arfet."
       - lb[type=edition,n=14]: Ac y dygwydawd ynteu ar lin Gwydyon; ac yna y
       - lb[type=edition,n=15]: trewis Gwydyon a'r hudlath ynteu, yny uyd yn y rith
       - lb[type=edition,n=16]: e hunan. Ny welsei neb ar wr dremynt druanach hagen

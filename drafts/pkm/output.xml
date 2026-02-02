@@ -21,13 +21,13 @@
       <publicationStmt>
         <publisher>Goethe University</publisher>
         <pubPlace>Frankfurt</pubPlace>
-        <date when="2025-01-15">2025-01-15</date>
+        <date when="2026-02-02">2026-02-02</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of The Mabinogion (draft version). 2025-01-15. By: Jost Gippert, Florian Matter, Elena Parina. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of The Mabinogion (v0.0.1.draft). 2026-02-02. By: Jost Gippert, Florian Matter, Elena Parina. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">unreleased</idno>
+        <idno type="version">0.0.1.draft</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl xml:id="pkm">
@@ -2714,7 +2714,8 @@
 <lb type="edition" n="11" />Mirein modur <note xml:id="chapter-4-p-4-note-63">medur, <foreign xml:lang="und-Latn-x-general">W.</foreign>
           </note> ymywet.
 <lb type="edition" n="12" />Ony dywedaf i [eu]
-<lb type="edition" n="13" />Ef dydau Lleu * y'm arfet."
+<lb type="edition" n="13" />Ef dydau Lleu <note xml:id="chapter-4-p-4-note-64">Llew, <foreign xml:lang="und-Latn-x-general">W.</foreign>
+          </note> y'm arfet."
 <lb type="edition" n="14" />Ac y dygwydawd ynteu ar lin Gwydyon; ac yna y
 <lb type="edition" n="15" />trewis Gwydyon a'r hudlath ynteu, yny uyd yn y rith
 <lb type="edition" n="16" />e hunan. Ny welsei neb ar wr dremynt druanach hagen
@@ -2750,7 +2751,7 @@
           <lb type="edition" n="16" />Ac o achaws hynny y mae digassawc yr adar y'r tylluan:
           <lb type="edition" n="17" />ac ef a elwir etwa y dylluan yn Blodeuwed.
           <lb type="edition" n="18" />Ynteu Gronwy Pebyr a gyrchwys Penllyn, ac odyno
-          <lb type="edition" n="19" />ymgynnatau <note xml:id="chapter-4-p-4-note-64">yngynnatau, <foreign xml:lang="und-Latn-x-general">W.,</foreign> ymgennattau, <foreign xml:lang="und-Latn-x-general">R.</foreign>
+          <lb type="edition" n="19" />ymgynnatau <note xml:id="chapter-4-p-4-note-65">yngynnatau, <foreign xml:lang="und-Latn-x-general">W.,</foreign> ymgennattau, <foreign xml:lang="und-Latn-x-general">R.</foreign>
           </note> a wnaeth. Sef kennadwri a anuones,
 <lb type="edition" n="20" />gouyn a wnaeth y Lew Llaw Gyffes, a uynnei
 <pb type="manuscript" n="110" />ae tir
@@ -2770,7 +2771,7 @@
           <lb type="edition" n="6" />trydyd Anniweir Deulu.
           <lb type="edition" n="7" />"Ie," heb ef, "mi a'e kymeraf." Ac yna y
           <lb type="edition" n="8" />doethant yll deu hyt ar lan Auon Gynuael. Ac yna y
-          <lb type="edition" n="9" />seui <note xml:id="chapter-4-p-4-note-65">seui, <foreign xml:lang="und-Latn-x-general">W.,</foreign> seuis, <foreign xml:lang="und-Latn-x-general">R.</foreign>
+          <lb type="edition" n="9" />seui <note xml:id="chapter-4-p-4-note-66">seui, <foreign xml:lang="und-Latn-x-general">W.,</foreign> seuis, <foreign xml:lang="und-Latn-x-general">R.</foreign>
           </note> Gronwy Bebyr, yn y lle yd oed Llew Llaw Gyffes
 <lb type="edition" n="10" />ban y byryawd ef, a Llew yn y lle yd oed ynteu. Ac yna
 <lb type="edition" n="11" />y dyuot Gronwy Bebyr wrth Llew, "Arglwyd," heb ef,
